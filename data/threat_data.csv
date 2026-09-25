@@ -1,0 +1,1201 @@
+indicator,indicator_type,threat_type,risk_score,priority,confidence,source,timestamp,status
+e585977129abab81888e3e35a1dcb86af1d2cea016ff78bd795edd0a03ed446c,File Hash,Malware,30,Low,72,Internal Honeypot,2026-09-25 04:31:42,Active
+73.110.93.210,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-09-25 00:32:20,False Positive
+c39ed67b68e457b621eeb9c09f4cde35ad4c60aa9938ab1198754d3c17a7463a,File Hash,Malware,30,Low,72,AbuseIPDB,2026-09-24 23:34:51,Investigating
+1de9590316f19478440195cfcbea932472d5777e0b02a4b32f84a1baae5cb560,File Hash,Ransomware,30,Low,72,Internal Honeypot,2026-09-24 14:59:46,Resolved
+fc40eadfe28b5632047a6839a0cf5e1f4815500aa701fd52050a5537da853055,File Hash,Cryptomining,30,Low,72,AbuseIPDB,2026-09-24 13:13:43,Investigating
+5l5simf.edu,URL/Domain,Benign,0,Low,62,Internal Honeypot,2026-09-24 13:10:46,Active
+194.78.210.32,IP Address,DDoS,50,Medium,66,Manual Analyst Report,2026-09-23 23:19:35,Mitigated
+7inc3y.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-23 17:40:13,Active
+de53697d8e1a7c87f25d0fe8f80630fd9e162476a72a5c9c9b503eba3913a6d5,File Hash,Spyware,30,Low,72,Internal Honeypot,2026-09-23 14:53:29,Investigating
+155.132.54.112,IP Address,Benign,15,Low,55,AlienVault OTX,2026-09-23 14:36:49,Active
+9875e78hnhl.edu,URL/Domain,Benign,0,Low,62,VirusTotal,2026-09-23 08:47:45,Resolved
+195.51.4.16,IP Address,Benign,15,Low,55,MISP Feed,2026-09-23 07:47:11,Active
+178tw48of2tx0q.net,URL/Domain,Data Exfiltration,33,Low,62,MISP Feed,2026-09-23 04:59:21,False Positive
+89.141.61.102,IP Address,DDoS,50,Medium,66,Internal Honeypot,2026-09-23 03:27:49,False Positive
+73.137.64.184,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-09-22 20:30:59,Active
+77.234.161.238,IP Address,Benign,15,Low,55,AbuseIPDB,2026-09-22 12:18:25,False Positive
+b4k8oiz8sjt.edu,URL/Domain,Benign,3,Low,69,PhishTank,2026-09-22 08:50:22,False Positive
+177.82.223.91,IP Address,Benign,15,Low,55,Spamhaus,2026-09-22 08:34:14,False Positive
+77g1p4wyj9.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-09-22 05:34:02,Investigating
+16.220.40.173,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-09-22 01:46:49,Mitigated
+149.74.165.171,IP Address,Benign,15,Low,55,PhishTank,2026-09-21 23:30:46,Resolved
+ba3450436267577150a6af8c1353f66139090a8a295fd70d512fa0a3dd531aa0,File Hash,Spyware,30,Low,72,VirusTotal,2026-09-21 23:05:28,False Positive
+uiy-0x8l4e.com,URL/Domain,Data Exfiltration,33,Low,62,AbuseIPDB,2026-09-21 19:26:48,Investigating
+342d509931c3cf376efa8a79d6c4a360ce3f2eeab823dc7b50e113a250768616,File Hash,Malware,30,Low,72,MISP Feed,2026-09-21 12:17:38,Resolved
+21c719e999687656a5585b87d3aeca08a8ff1b5181233b3455fdc2b10fae6003,File Hash,Cryptomining,30,Low,72,PhishTank,2026-09-21 09:53:05,False Positive
+253001093d8c41c74c9f1f5c8da468de426780444f146f338e31f59bb47020dd,File Hash,Spyware,30,Low,72,VirusTotal,2026-09-21 07:01:39,Active
+n6uvq2rpuvn.io,URL/Domain,Benign,18,Low,55,PhishTank,2026-09-21 00:07:26,Active
+zd0wi.io,URL/Domain,Benign,18,Low,55,MISP Feed,2026-09-20 21:37:49,Investigating
+2qgcee.org,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-09-20 10:52:19,Investigating
+4.8.140.138,IP Address,Benign,15,Low,55,MISP Feed,2026-09-20 10:42:27,Resolved
+invoice-59glfri8m.top,URL/Domain,Data Exfiltration,88,Critical,76,AbuseIPDB,2026-09-20 10:31:37,Active
+185.24.30.234,IP Address,DDoS,50,Medium,66,PhishTank,2026-09-20 08:23:44,Resolved
+177.162.246.18,IP Address,Benign,15,Low,55,PhishTank,2026-09-20 06:50:12,False Positive
+169.90.21.247,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-09-20 02:58:42,Active
+166.43.132.235,IP Address,Benign,15,Low,55,AbuseIPDB,2026-09-20 02:38:43,Investigating
+ydvjnodl5.org,URL/Domain,Benign,18,Low,55,VirusTotal,2026-09-19 09:02:34,Resolved
+05c70937d61c32c8beda285c1590e9b5ac2cb4dd69f26e0238c9d21413ce6b9e,File Hash,Malware,30,Low,72,MISP Feed,2026-09-19 08:29:10,Resolved
+invoice-v5wmkzb.click,URL/Domain,Malware,88,Critical,76,Internal Honeypot,2026-09-19 07:31:21,False Positive
+secure-kuxcjgoaya-dy-.xyz,URL/Domain,Malware,100,Critical,83,AbuseIPDB,2026-09-19 05:22:06,Resolved
+qw4z6p.net,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-18 23:05:40,Active
+95.254.162.70,IP Address,Benign,15,Low,55,Spamhaus,2026-09-18 22:27:17,Resolved
+dxa1fs4.net,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-18 21:27:28,Investigating
+103.18.71.38,IP Address,Data Exfiltration,50,Medium,66,MISP Feed,2026-09-18 20:56:44,Mitigated
+27.212.72.1,IP Address,Benign,15,Low,55,Internal Honeypot,2026-09-18 20:44:23,Resolved
+6e13d6049bdff13d28abfde5ff4ba4636dc7c2cb428e33b0fe127acce0138f95,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-09-18 15:07:32,Investigating
+190.222.36.192,IP Address,Benign,15,Low,55,VirusTotal,2026-09-18 12:16:22,Mitigated
+56.33.203.174,IP Address,Benign,15,Low,55,Spamhaus,2026-09-18 03:38:23,Resolved
+185.254.118.161,IP Address,Data Exfiltration,50,Medium,66,VirusTotal,2026-09-18 01:21:58,Active
+90.114.35.200,IP Address,Benign,15,Low,55,AlienVault OTX,2026-09-17 19:59:22,Investigating
+185.250.210.176,IP Address,Data Exfiltration,50,Medium,66,Internal Honeypot,2026-09-17 18:24:01,Mitigated
+7.172.134.208,IP Address,Benign,15,Low,55,Internal Honeypot,2026-09-17 16:34:45,False Positive
+bdbe3faca30abac5454fa9b9c8c3b5e6ded52e7528aeeb3e0984091e2371e436,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-09-17 14:50:05,Mitigated
+198.90.76.209,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-09-17 06:20:36,Active
+ywol1a-5p6r0.co,URL/Domain,Data Exfiltration,33,Low,62,PhishTank,2026-09-17 03:36:50,False Positive
+verify-kpl9ek.work,URL/Domain,Data Exfiltration,88,Critical,76,MISP Feed,2026-09-16 20:33:53,Mitigated
+42.224.162.226,IP Address,Benign,15,Low,55,Spamhaus,2026-09-16 19:00:55,Active
+9d3460be48b190817f4859622d9582b6424df985b17086ea04a8da39f62b0b2e,File Hash,Spyware,30,Low,72,AbuseIPDB,2026-09-16 08:12:10,Resolved
+71.143.228.227,IP Address,Benign,15,Low,55,VirusTotal,2026-09-16 06:38:01,False Positive
+account-8mk8zoskxv.tk,URL/Domain,Phishing,88,Critical,76,AlienVault OTX,2026-09-16 04:15:48,False Positive
+uuj2e42trdw6et.io,URL/Domain,Malware,33,Low,62,Manual Analyst Report,2026-09-16 02:55:17,Mitigated
+fni7ot9nh.org,URL/Domain,Benign,18,Low,55,VirusTotal,2026-09-15 20:25:58,Resolved
+6lmjoh.net,URL/Domain,Benign,18,Low,55,Spamhaus,2026-09-15 19:01:18,Investigating
+22dda5ca70b6974fa5f27a2faa8095baa12b6abd5ab5f17450fc02e03ab5d110,File Hash,Spyware,30,Low,72,MISP Feed,2026-09-15 11:14:36,Resolved
+-bsb-a3s.net,URL/Domain,Data Exfiltration,30,Low,62,Spamhaus,2026-09-15 09:34:11,False Positive
+11a4f34ebf5ceb64c8da74289567e4d698ed7f55ae9a93100236b7e624fdb9ca,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-09-15 08:54:35,Mitigated
+185.9.52.104,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-09-15 08:42:29,False Positive
+arrfp8s.org,URL/Domain,Benign,18,Low,55,Spamhaus,2026-09-15 06:34:52,Mitigated
+40180b8421f51ddbc642562ecb8058bbf2426b09026dd4c30a6f295f7a890503,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-09-15 02:12:22,Mitigated
+2.169.238.182,IP Address,Benign,15,Low,55,VirusTotal,2026-09-14 23:23:47,Mitigated
+185.5.155.9,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-09-14 16:04:39,Investigating
+89.251.96.204,IP Address,DDoS,50,Medium,66,Spamhaus,2026-09-14 15:56:48,Active
+194.207.104.48,IP Address,Botnet C2,50,Medium,66,AbuseIPDB,2026-09-14 14:53:09,Active
+verify-i0g6hshg5mmq7m.gq,URL/Domain,Malware,88,Critical,76,VirusTotal,2026-09-14 09:02:08,Resolved
+x7xprnyfgi.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-14 07:38:12,Investigating
+37.148.225.50,IP Address,Benign,15,Low,55,PhishTank,2026-09-14 03:54:43,Investigating
+91.184.198.121,IP Address,Botnet C2,50,Medium,66,Manual Analyst Report,2026-09-14 03:32:23,Mitigated
+a1ppu1oj-.com,URL/Domain,Benign,18,Low,55,Spamhaus,2026-09-14 03:32:03,Resolved
+01a8bc298198ae80e8be00d1c9865dfc1533dccdb75b7618a3c928b5dce6edb0,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-09-14 03:14:36,Mitigated
+132.30.240.31,IP Address,Benign,15,Low,55,MISP Feed,2026-09-14 02:34:50,Mitigated
+n5rusv9-i-5.gov,URL/Domain,Benign,0,Low,69,AlienVault OTX,2026-09-14 01:22:02,Resolved
+ym759jsu0uhg7.gov,URL/Domain,Benign,3,Low,69,AbuseIPDB,2026-09-14 00:16:04,Investigating
+108c9d8b401a545633880a4377281346916bb18a5c9138e724c276b3a9418efd,File Hash,Cryptomining,30,Low,72,PhishTank,2026-09-13 23:52:07,Investigating
+f55992bd332b8bc7b41c4d5984b38ee74d69831844dafea74ecc877fbe46802d,File Hash,Malware,30,Low,72,Spamhaus,2026-09-13 17:24:29,Resolved
+209.164.8.163,IP Address,Benign,15,Low,55,PhishTank,2026-09-13 17:08:26,Resolved
+gl4c86hf4i8a17.io,URL/Domain,Malware,33,Low,62,PhishTank,2026-09-13 09:42:09,Resolved
+7w-s9r.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-12 22:46:33,Mitigated
+login-yt5sd7cmft-8.xyz,URL/Domain,Data Exfiltration,100,Critical,83,AlienVault OTX,2026-09-12 17:57:46,Resolved
+90.131.55.185,IP Address,Benign,15,Low,55,AlienVault OTX,2026-09-12 14:56:28,Resolved
+i8-sdziza3.edu,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-09-12 01:54:37,Active
+193.71.66.170,IP Address,Benign,15,Low,55,PhishTank,2026-09-12 01:42:05,Mitigated
+782494296cd7b8f35bd8f46047e5b1d3dbe16539751ecddada3a092ac9f7a1cd,File Hash,Ransomware,30,Low,72,VirusTotal,2026-09-12 00:43:13,False Positive
+61.165.8.45,IP Address,Benign,15,Low,55,MISP Feed,2026-09-12 00:22:39,Resolved
+103.132.192.242,IP Address,Data Exfiltration,50,Medium,66,AbuseIPDB,2026-09-11 21:37:04,Investigating
+n4ytukc97hq4t.net,URL/Domain,Benign,18,Low,55,PhishTank,2026-09-11 21:03:48,Active
+gr3rm3skiu.com,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-11 17:06:14,False Positive
+5u7cgef.com,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-09-11 16:55:22,Active
+n5wo2tx9sp7ru.co,URL/Domain,Data Exfiltration,33,Low,62,AbuseIPDB,2026-09-11 16:22:19,Resolved
+verify-49spegabdara.click,URL/Domain,Phishing,88,Critical,76,AbuseIPDB,2026-09-11 15:35:32,Investigating
+ceb24f11597625b366cb04daada6a046656607ba6c1de45703bab54cf5a10bed,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-09-11 15:08:40,Resolved
+c4xu5-r5l6rzo.edu,URL/Domain,Benign,3,Low,69,VirusTotal,2026-09-11 09:51:04,Resolved
+111.123.200.50,IP Address,Benign,15,Low,55,Spamhaus,2026-09-11 07:57:13,Resolved
+193.23.7.224,IP Address,Benign,15,Low,55,Internal Honeypot,2026-09-11 02:12:12,Active
+155.147.82.37,IP Address,Benign,15,Low,55,PhishTank,2026-09-11 00:56:17,Active
+118.169.54.157,IP Address,Benign,15,Low,55,AbuseIPDB,2026-09-10 23:56:32,Investigating
+95.180.99.88,IP Address,Benign,15,Low,55,Spamhaus,2026-09-10 20:19:16,Investigating
+89.14.88.50,IP Address,Data Exfiltration,50,Medium,66,Internal Honeypot,2026-09-10 19:54:32,Active
+d523d1471400a4647d6a50ee66a4cb5434b5588399b8e25ac6ff7ed697cd06ee,File Hash,Malware,30,Low,72,AbuseIPDB,2026-09-10 12:43:52,False Positive
+snd8dudd.co,URL/Domain,Benign,18,Low,55,VirusTotal,2026-09-10 10:30:11,Active
+194.106.41.159,IP Address,Botnet C2,50,Medium,66,PhishTank,2026-09-10 10:15:06,Mitigated
+6aobhtp1.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-09 23:59:04,Mitigated
+bb8qpt1.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-09 15:24:46,Mitigated
+iy7pgu7mx3gj10.com,URL/Domain,Phishing,33,Low,62,AbuseIPDB,2026-09-09 13:31:23,Investigating
+b1df8d671e1b81d3a455f18872fed716ae0e2daf8224520764ed184b22f602f2,File Hash,Malware,30,Low,72,MISP Feed,2026-09-09 08:43:23,False Positive
+187.196.215.237,IP Address,Benign,15,Low,55,AbuseIPDB,2026-09-09 06:42:50,Mitigated
+namzhr-65k9m--.net,URL/Domain,Benign,13,Medium,69,VirusTotal,2026-09-09 00:21:11,Mitigated
+cpialdtg3kegh5.co,URL/Domain,Malware,33,Low,62,Internal Honeypot,2026-09-08 21:36:53,Resolved
+c7ad2cd646b4b4b2144b42ba93a990dc3375aa01a6d9368b130e8998e0bfb4fb,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-09-08 12:19:45,Active
+qxzlvu3.io,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-09-08 11:41:10,Active
+112.152.64.26,IP Address,Benign,15,Low,55,PhishTank,2026-09-08 09:25:21,Investigating
+217.20.65.139,IP Address,Benign,15,Low,55,PhishTank,2026-09-07 17:04:13,Mitigated
+89.138.27.120,IP Address,DDoS,50,Medium,66,AlienVault OTX,2026-09-07 14:50:33,Mitigated
+e-xh6dlo7.com,URL/Domain,Benign,18,Low,55,Spamhaus,2026-09-07 12:03:33,Mitigated
+nec1w.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-09-07 11:48:18,Active
+68f13b945a4280ff211190bda0861e16799965baefad591819f7749fb2d0ef1c,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-09-07 10:42:46,Investigating
+wallet-gguxti.click,URL/Domain,Malware,73,High,69,VirusTotal,2026-09-07 09:40:39,False Positive
+c7e1d1fa15b4a3f2f7d7999b49ea77c82d9462605f9941c200ec19a9de71f1e1,File Hash,Spyware,30,Low,72,Manual Analyst Report,2026-09-07 09:35:51,Investigating
+bcvdvczhn738.net,URL/Domain,Malware,33,Low,62,Internal Honeypot,2026-09-07 03:39:00,Investigating
+ys3jkv.io,URL/Domain,Benign,18,Low,55,Spamhaus,2026-09-07 02:06:44,Investigating
+3daacd5b63a807891b168721f09b9a450fe52e745e5a51859a08ea6130eb7f08,File Hash,Ransomware,30,Low,72,Internal Honeypot,2026-09-06 07:08:55,False Positive
+6f8bd444fe16c39fb8594b08f2fce02032e2feff0c9032f257dfce3820ad5511,File Hash,Cryptomining,30,Low,72,PhishTank,2026-09-06 00:05:45,Mitigated
+login-36sr17otft.top,URL/Domain,Malware,88,Critical,76,AbuseIPDB,2026-09-05 20:15:11,Active
+7con-4.org,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-09-05 18:47:04,False Positive
+146.234.73.81,IP Address,Benign,15,Low,55,VirusTotal,2026-09-04 11:14:25,Mitigated
+168.205.67.210,IP Address,Benign,15,Low,55,MISP Feed,2026-09-04 02:12:23,Active
+37.249.223.250,IP Address,Benign,15,Low,55,VirusTotal,2026-09-03 23:59:48,Resolved
+wallet-bzo2x4-gtvjfg9.work,URL/Domain,Malware,100,Critical,83,Internal Honeypot,2026-09-03 23:50:49,Resolved
+4d3d19a1eb15a3e051445243c985b380eb32031586f8362cfafa8b43cf8f30b7,File Hash,Ransomware,30,Low,72,MISP Feed,2026-09-03 21:06:24,Resolved
+180.141.5.133,IP Address,Benign,15,Low,55,Internal Honeypot,2026-09-03 20:12:18,Resolved
+8g1w5byc5f4.org,URL/Domain,Phishing,33,Low,62,AbuseIPDB,2026-09-03 20:03:30,Active
+w9y1lyfs.gov,URL/Domain,Benign,0,Low,62,AbuseIPDB,2026-09-03 19:14:10,Investigating
+89.184.147.143,IP Address,Botnet C2,50,Medium,66,AlienVault OTX,2026-09-03 17:02:47,Resolved
+0oi10037xb2ja.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-09-03 16:40:31,Mitigated
+75.218.206.112,IP Address,Benign,15,Low,55,Spamhaus,2026-09-03 11:08:07,Active
+50.113.142.51,IP Address,Benign,15,Low,55,AlienVault OTX,2026-09-03 09:23:23,Resolved
+84.237.248.119,IP Address,Benign,15,Low,55,AbuseIPDB,2026-09-03 09:01:30,Investigating
+130.146.212.109,IP Address,Benign,15,Low,55,Spamhaus,2026-09-03 05:40:17,False Positive
+latr9whv3-f.co,URL/Domain,Malware,33,Low,62,Manual Analyst Report,2026-09-03 00:45:35,Active
+a2rnk.net,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-09-03 00:16:52,False Positive
+6aabef2f7e68e06d93597b87258788035684b761e09c6c938b4edc3aec590c15,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-09-02 20:26:37,Resolved
+s5mhie2l.gov,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-09-02 17:21:24,Mitigated
+52.75.132.82,IP Address,Benign,15,Low,55,AbuseIPDB,2026-09-02 14:51:45,False Positive
+28.61.202.211,IP Address,Benign,15,Low,55,Internal Honeypot,2026-09-02 08:47:41,Resolved
+194.111.62.182,IP Address,Botnet C2,50,Medium,66,AbuseIPDB,2026-09-02 06:58:36,Investigating
+40.199.162.93,IP Address,Benign,15,Low,55,AbuseIPDB,2026-09-02 04:48:13,Mitigated
+198.194.167.127,IP Address,Benign,15,Low,55,AlienVault OTX,2026-09-01 21:04:11,Investigating
+322n64kfs6.gov,URL/Domain,Benign,0,Low,62,PhishTank,2026-09-01 20:26:29,Mitigated
+secure-3zk3ajmltt.tk,URL/Domain,Phishing,88,Critical,76,Spamhaus,2026-09-01 20:04:56,Investigating
+33.137.140.124,IP Address,Benign,15,Low,55,Internal Honeypot,2026-09-01 16:18:08,False Positive
+t5-9weu7ol7e6k.io,URL/Domain,Malware,33,Low,62,Spamhaus,2026-09-01 16:16:17,Investigating
+120.255.157.128,IP Address,Benign,15,Low,55,AlienVault OTX,2026-09-01 14:40:30,False Positive
+154815c5865ab90fde7ef58ac1ade304ce1bf51297d65771f65b16240734a0e3,File Hash,Ransomware,30,Low,72,VirusTotal,2026-09-01 10:21:43,Active
+89.147.106.88,IP Address,Benign,4,Medium,66,MISP Feed,2026-09-01 10:18:18,Investigating
+105.135.144.77,IP Address,Benign,15,Low,55,Internal Honeypot,2026-09-01 03:11:08,Resolved
+t-38ly.edu,URL/Domain,Benign,0,Low,62,Spamhaus,2026-08-31 23:56:46,False Positive
+ebfb5e700256e9ea2840042d2006c2ae5d76f0ec7c924aeabc0e9447009b0591,File Hash,Spyware,30,Low,72,PhishTank,2026-08-31 22:51:26,Active
+18.46.43.24,IP Address,Benign,15,Low,55,Spamhaus,2026-08-31 15:25:30,Investigating
+d19edb26565889dac7ae3f5017b3305d1ddbb0681b5a22d2f005d5f3f67d459e,File Hash,Malware,30,Low,72,VirusTotal,2026-08-31 10:31:01,Resolved
+oyy4qj71as2yu.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-08-31 09:38:56,Mitigated
+46ww9ie21ye-fi.edu,URL/Domain,Benign,3,Low,69,MISP Feed,2026-08-31 00:41:57,Resolved
+b4buy-yu-.com,URL/Domain,Data Exfiltration,30,Low,62,Manual Analyst Report,2026-08-30 21:29:45,Mitigated
+73c314f09be77137bc61251eeece9d5fbe20641a2659140ce3a6f433b752c200,File Hash,Ransomware,30,Low,72,AlienVault OTX,2026-08-30 21:12:02,False Positive
+4lx994qt-wzih.io,URL/Domain,Data Exfiltration,33,Low,62,VirusTotal,2026-08-30 21:11:04,False Positive
+6uyrlbuobrd47w.net,URL/Domain,Malware,33,Low,62,VirusTotal,2026-08-30 19:58:06,Investigating
+nsf4ilm.net,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-08-30 13:50:50,Resolved
+secure-rj0kx9.xyz,URL/Domain,Malware,88,Critical,76,VirusTotal,2026-08-30 05:58:30,False Positive
+ifl129.co,URL/Domain,Benign,18,Low,55,Spamhaus,2026-08-30 04:02:11,Active
+hfdcyueid2dt.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-08-30 02:57:41,False Positive
+97.203.101.20,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-29 18:00:44,False Positive
+a9755c712a789ef2205cb078bb777df3574c63a03d27bdb141023d247c9afde7,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-08-28 23:45:16,False Positive
+m3ffzl.org,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-08-28 22:59:37,Mitigated
+6542e2af9d2208899b26d0894b21393e71a7de6a8e6bbccf285d8cf14ae2a23a,File Hash,Malware,30,Low,72,VirusTotal,2026-08-28 20:08:48,Active
+38.66.128.205,IP Address,Benign,15,Low,55,VirusTotal,2026-08-28 04:03:14,Investigating
+95.2.26.67,IP Address,Benign,15,Low,55,AlienVault OTX,2026-08-28 03:14:42,Mitigated
+fpxanbx9.io,URL/Domain,Benign,18,Low,55,VirusTotal,2026-08-28 02:49:25,Mitigated
+358d36234bbbd5017396e7b262187de277942859e61551dad339e25ae1b18b97,File Hash,Cryptomining,30,Low,72,Manual Analyst Report,2026-08-28 00:36:48,False Positive
+q5wv2xkk.org,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-08-27 22:04:57,False Positive
+5.196.57.126,IP Address,Data Exfiltration,50,Medium,66,VirusTotal,2026-08-27 20:49:05,Active
+secure-wlpotm8pyqdr.xyz,URL/Domain,Phishing,88,Critical,76,AbuseIPDB,2026-08-27 12:16:35,False Positive
+4cy5prydgdvr8x.io,URL/Domain,Malware,33,Low,62,MISP Feed,2026-08-27 11:48:48,Investigating
+h83jevrcy.edu,URL/Domain,Benign,0,Low,62,MISP Feed,2026-08-27 06:10:05,Resolved
+2b1ee59b665cbe7fcb00c4c815958cdef863b969aed7d827472600b0261cc117,File Hash,Spyware,30,Low,72,MISP Feed,2026-08-27 01:05:44,False Positive
+124.53.151.107,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-26 23:50:04,Mitigated
+ak7qhmb8b76jn.edu,URL/Domain,Benign,3,Low,69,PhishTank,2026-08-26 21:05:36,Active
+48.187.166.51,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-08-26 19:26:26,Resolved
+86082058ede225bf9e955e601a4f38f6d0ed8b06d6bfdcc457a8c3273bd03ba6,File Hash,Cryptomining,30,Low,72,MISP Feed,2026-08-26 18:23:55,Active
+wezc1b3eu-1-z.io,URL/Domain,Malware,30,Low,62,MISP Feed,2026-08-26 14:14:45,Active
+b5902d8efbeb0c17cb60f9c0ba00c09bfe081518d615964494cf66adf86b6ce9,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-08-26 08:48:19,Active
+117.28.158.171,IP Address,Benign,15,Low,55,VirusTotal,2026-08-26 04:31:53,Investigating
+40.90.67.22,IP Address,Benign,15,Low,55,Spamhaus,2026-08-26 02:57:07,Resolved
+194.182.79.200,IP Address,Botnet C2,50,Medium,66,AbuseIPDB,2026-08-26 02:08:06,Resolved
+yfzqlpzfbnkyz.org,URL/Domain,Benign,18,Low,55,VirusTotal,2026-08-25 18:07:22,Resolved
+3f9ebeafdd635f496fae68e7cd907b36e05bcebb7f9854c3c56056282ac32c1f,File Hash,Spyware,30,Low,72,AlienVault OTX,2026-08-25 16:30:41,Mitigated
+fb65cb0dc740b974dbed7de3180202a807e64d1440b445352005f145345d2a9d,File Hash,Cryptomining,30,Low,72,PhishTank,2026-08-25 15:52:03,Active
+login-7hn34ck9xh0hh.xyz,URL/Domain,Data Exfiltration,88,Critical,76,VirusTotal,2026-08-25 15:28:05,Mitigated
+133.227.4.3,IP Address,Benign,15,Low,55,PhishTank,2026-08-25 13:37:00,Investigating
+78.7.108.240,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-25 11:33:20,Investigating
+24.89.62.42,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-25 11:11:05,False Positive
+gj3ghpb3lrb472.org,URL/Domain,Benign,18,Low,55,MISP Feed,2026-08-25 08:57:24,Active
+08deb03504208b9ea3283b5cb3c3ca5ba6dd6834c801e203f08be068d60aaff4,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-08-25 08:31:53,Investigating
+er0btchtjq.io,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-08-25 05:48:39,Active
+18d654fa09e3ec71cc2af439b61f372ba5d6c28ef96e8e2c1d99e2c56f5bb7d6,File Hash,Malware,30,Low,72,PhishTank,2026-08-25 03:26:17,Resolved
+128.23.140.108,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-24 12:30:26,Investigating
+212.183.198.46,IP Address,Benign,15,Low,55,AlienVault OTX,2026-08-24 12:08:47,Mitigated
+19.115.141.36,IP Address,Benign,15,Low,55,Spamhaus,2026-08-24 07:39:35,Investigating
+162.183.138.52,IP Address,Benign,15,Low,55,PhishTank,2026-08-24 03:49:27,False Positive
+p4tfzc6-7-jh2l.net,URL/Domain,Benign,9,Medium,69,Internal Honeypot,2026-08-24 03:26:20,Resolved
+uz6yihg.edu,URL/Domain,Benign,0,Low,62,AlienVault OTX,2026-08-23 23:19:46,Mitigated
+8f1a015c45be3c42fad4b60762358d30e380b26be0776bee40bbc51548501a40,File Hash,Ransomware,30,Low,72,AlienVault OTX,2026-08-23 20:27:00,Mitigated
+fe6e37b796190b0c2359073fa8f91d4eaa3e9f6b1a3ae0a8d20b35589b95a106,File Hash,Spyware,30,Low,72,AbuseIPDB,2026-08-23 10:35:04,Active
+72.91.134.145,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-23 09:58:32,False Positive
+22.158.192.165,IP Address,Benign,15,Low,55,PhishTank,2026-08-23 09:49:38,Active
+e38f3844b87582ac8cc740645bf4129c7b528b5a46f7684d80f3502a63e670cc,File Hash,Malware,30,Low,72,PhishTank,2026-08-23 08:55:13,False Positive
+89.145.40.65,IP Address,Benign,14,Medium,66,MISP Feed,2026-08-23 06:14:11,Mitigated
+32.6.31.213,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-22 21:46:44,Resolved
+update-fdoob.ml,URL/Domain,Phishing,88,Critical,76,Internal Honeypot,2026-08-22 16:35:10,Investigating
+9b1uzlucsu-.com,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-08-22 10:54:33,Active
+invoice-po3lcr9.tk,URL/Domain,Data Exfiltration,88,Critical,76,AbuseIPDB,2026-08-22 09:58:01,Mitigated
+183.223.141.216,IP Address,Benign,15,Low,55,PhishTank,2026-08-21 16:55:15,Resolved
+3i8bz-b.com,URL/Domain,Benign,18,Low,55,Spamhaus,2026-08-21 12:10:58,Investigating
+wallet-pjag1ol73d9.top,URL/Domain,Malware,88,Critical,76,Manual Analyst Report,2026-08-21 12:04:32,False Positive
+update-444nk0.click,URL/Domain,Malware,88,Critical,76,VirusTotal,2026-08-21 06:04:18,False Positive
+account-wjscsfw2q4n.gq,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-08-21 01:00:57,False Positive
+80.106.34.16,IP Address,Benign,15,Low,55,Spamhaus,2026-08-20 23:45:26,Resolved
+3wsj580x1f.co,URL/Domain,Phishing,33,Low,62,MISP Feed,2026-08-20 16:52:32,Mitigated
+157.203.39.166,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-20 10:47:24,Investigating
+208.194.138.179,IP Address,Benign,15,Low,55,VirusTotal,2026-08-20 07:44:59,Resolved
+3w13003b9b.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-08-20 06:35:37,Mitigated
+0cd105ec9fa5cb02fda9e57712462d40b8d031dca29dbd5f7c9a0d36cb784426,File Hash,Ransomware,30,Low,72,Spamhaus,2026-08-20 06:01:46,Investigating
+d3b2463a94f7491e9635443101709e52463458240c3bf0aa19c23aa68c880869,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-08-20 05:56:01,Mitigated
+8uutrxg.co,URL/Domain,Benign,18,Low,55,PhishTank,2026-08-20 04:31:23,Investigating
+update-4j38xojslyqk.cf,URL/Domain,Data Exfiltration,88,Critical,76,MISP Feed,2026-08-20 03:26:36,Resolved
+123.80.15.38,IP Address,Benign,15,Low,55,PhishTank,2026-08-20 02:07:00,Investigating
+wallet-ey629rhig.ml,URL/Domain,Malware,88,Critical,76,PhishTank,2026-08-19 21:44:43,False Positive
+109.212.71.214,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-19 21:25:39,Mitigated
+185.67.45.82,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-08-19 19:30:42,Active
+155.109.85.243,IP Address,Benign,15,Low,55,MISP Feed,2026-08-19 13:04:23,False Positive
+7z97zq5125.io,URL/Domain,Benign,18,Low,55,VirusTotal,2026-08-19 10:34:39,Investigating
+173.155.169.60,IP Address,Benign,15,Low,55,Spamhaus,2026-08-19 09:20:45,False Positive
+a947b8097a533da30cc131e902dc36c7bda58495591cfe92cd7de0acd9e1f710,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-08-19 07:31:30,Resolved
+89.82.146.175,IP Address,DDoS,50,Medium,66,MISP Feed,2026-08-19 02:44:03,Mitigated
+1317311aef7b60c55ab56f79d5f86dca0b4167f927152736529ca2388fd5adbd,File Hash,Malware,30,Low,72,AlienVault OTX,2026-08-18 23:33:35,Resolved
+8kuss-r6gi0dri.net,URL/Domain,Malware,33,Low,62,Internal Honeypot,2026-08-18 17:15:56,Investigating
+133.247.57.70,IP Address,Benign,15,Low,55,AlienVault OTX,2026-08-18 14:03:12,Investigating
+5.215.40.95,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-08-18 12:43:46,Resolved
+39b4e437a854c2245f2f76f2767a1b13c29d714e773d82c5bf637f02e7dc50c1,File Hash,Cryptomining,30,Low,72,AlienVault OTX,2026-08-18 07:38:05,Investigating
+6dc721330e7fdfdb1278148d0a41b894ade14b8a0d778a7bca126f7b5aa87c64,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-08-18 04:45:38,Resolved
+180.251.96.83,IP Address,Benign,15,Low,55,AlienVault OTX,2026-08-18 03:11:08,False Positive
+185.6.214.29,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-08-17 23:35:49,False Positive
+99f21afe1e4bad5a6d37902f183830307678f76ab5975d897490124df0cabdd3,File Hash,Ransomware,30,Low,72,AlienVault OTX,2026-08-17 23:33:38,False Positive
+1188d8342675a2e9b08d86eff42c6660156787a78f967d2ec8c15b3f62668ee1,File Hash,Spyware,30,Low,72,Spamhaus,2026-08-17 23:30:58,False Positive
+5.120.207.62,IP Address,Data Exfiltration,50,Medium,66,AbuseIPDB,2026-08-17 22:00:19,Active
+88.115.158.53,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-17 18:51:34,False Positive
+145.79.205.148,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-17 14:01:05,Mitigated
+0fa6319e94663e67bc48279a74089068529a5664a14897724fe26aa8f662865f,File Hash,Malware,30,Low,72,AlienVault OTX,2026-08-17 01:09:32,Mitigated
+account-xu0c-ojb.cf,URL/Domain,Phishing,85,Critical,76,MISP Feed,2026-08-16 21:50:58,Mitigated
+rkkbglsh8zke.com,URL/Domain,Malware,33,Low,62,MISP Feed,2026-08-16 12:56:56,Mitigated
+134.230.87.10,IP Address,Benign,15,Low,55,Spamhaus,2026-08-16 09:24:23,False Positive
+77v2ivsx1cypn.co,URL/Domain,Data Exfiltration,33,Low,62,AbuseIPDB,2026-08-16 08:21:09,Resolved
+x7aku.io,URL/Domain,Benign,18,Low,55,Spamhaus,2026-08-16 00:57:38,Investigating
+198.225.60.70,IP Address,Benign,15,Low,55,VirusTotal,2026-08-15 19:01:47,Active
+vlstg9kjk0h8.co,URL/Domain,Data Exfiltration,33,Low,62,Spamhaus,2026-08-15 08:32:35,False Positive
+ynint1.gov,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-08-15 07:00:44,False Positive
+o8pt4mx-23sy.co,URL/Domain,Data Exfiltration,33,Low,62,Spamhaus,2026-08-14 21:43:19,False Positive
+ada7504dc970815756fca676fbe2a8584bb8464d73a364ed4e4fc7299fade00e,File Hash,Cryptomining,30,Low,72,PhishTank,2026-08-14 19:34:30,Active
+96.52.63.73,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-14 19:03:38,Resolved
+l15f4w0vu.gov,URL/Domain,Benign,0,Low,62,AbuseIPDB,2026-08-14 16:59:05,Resolved
+buxv0x4.org,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-08-14 15:34:59,Active
+account-g9ys8.loan,URL/Domain,Data Exfiltration,88,Critical,76,MISP Feed,2026-08-14 15:06:37,Resolved
+invoice-77-riu1xjcydml.xyz,URL/Domain,Malware,100,Critical,83,Internal Honeypot,2026-08-14 14:32:49,Mitigated
+6a4563e5203e73580e80e1e6af93feac94414874066f73447d5ac8aca54e9b10,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-08-14 12:19:33,Mitigated
+89.171.14.62,IP Address,Data Exfiltration,50,Medium,66,MISP Feed,2026-08-14 09:16:29,Active
+dfd3ebdc63c04169c6e35e62145aebaebe852a7733392a2e1ef7147bd9799bad,File Hash,Malware,30,Low,72,PhishTank,2026-08-14 03:05:56,Investigating
+invoice-emdjnifl9np6.work,URL/Domain,Phishing,88,Critical,76,MISP Feed,2026-08-13 21:48:02,Investigating
+405c4ad8e36914e8dbb8170726d47c333375c801de3139862ed4f86affef73bb,File Hash,Malware,30,Low,72,Spamhaus,2026-08-13 17:30:15,Resolved
+215.7.47.238,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-13 14:11:44,Resolved
+a4a0acaaaaee5998853e927abfdd393028e51f35ce6e188da3e3009a339f07b4,File Hash,Ransomware,30,Low,72,VirusTotal,2026-08-13 09:54:02,Resolved
+9b3abce8c08410b990b5951cae3da8b417f012d97a41f3419717fd1c1d1797e9,File Hash,Malware,30,Low,72,PhishTank,2026-08-13 06:55:58,False Positive
+45.121.177.252,IP Address,Botnet C2,50,Medium,66,PhishTank,2026-08-13 05:49:47,Active
+phj2gciy4.io,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-08-13 04:15:58,False Positive
+hzama18wp7c2k.edu,URL/Domain,Benign,3,Low,69,Internal Honeypot,2026-08-12 02:15:27,Mitigated
+96.231.154.56,IP Address,Benign,15,Low,55,MISP Feed,2026-08-12 00:54:23,Mitigated
+update-57tcozdantniqs.work,URL/Domain,Phishing,88,Critical,76,Spamhaus,2026-08-12 00:17:21,Resolved
+19.226.191.156,IP Address,Benign,15,Low,55,AlienVault OTX,2026-08-11 17:17:59,Active
+ccfc7db608a4fbc2844918f6afe20601503272259969b8db6dc93fed71b138e3,File Hash,Spyware,30,Low,72,Manual Analyst Report,2026-08-11 11:22:15,Resolved
+188.39.166.203,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-08-11 11:12:54,False Positive
+45.183.133.92,IP Address,DDoS,50,Medium,66,VirusTotal,2026-08-11 10:39:42,Active
+57.193.53.201,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-11 09:49:27,Mitigated
+akw66nw7y.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-08-11 05:06:41,Investigating
+4bd6c3630e2dff02dcb7a3d12a4cfb32e75d79e3f7e13451bf03b904397da5f0,File Hash,Ransomware,30,Low,72,PhishTank,2026-08-11 04:36:15,Investigating
+2b0867712001da14e7d1bc1a6059c4ea911cd36aad5253eeae18d7fa5ac6892b,File Hash,Cryptomining,30,Low,72,PhishTank,2026-08-11 04:31:38,Resolved
+l5au64.io,URL/Domain,Benign,18,Low,55,VirusTotal,2026-08-11 02:36:20,Resolved
+197.8.58.190,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-08-10 22:21:31,Resolved
+185.89.173.217,IP Address,Botnet C2,50,Medium,66,Internal Honeypot,2026-08-10 21:51:25,Active
+4490a6715e6653bab66fd0278875d2a15da7223f72b858a3d394018167b5f349,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-08-10 14:53:25,Mitigated
+185.86.30.158,IP Address,DDoS,50,Medium,66,PhishTank,2026-08-10 04:00:12,Active
+f518b9b72ecf62c65d03a940f10fc6f66fdfcc00bf677b79eff3da900f4604e3,File Hash,Malware,30,Low,72,AlienVault OTX,2026-08-10 03:30:14,Active
+160.137.47.96,IP Address,Benign,15,Low,55,PhishTank,2026-08-10 00:50:53,Resolved
+208.137.211.49,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-10 00:01:06,Mitigated
+5en0yu.io,URL/Domain,Benign,18,Low,55,VirusTotal,2026-08-09 18:06:55,Active
+130.75.253.162,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-09 12:27:38,Active
+89.90.96.146,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-08-09 05:24:56,Mitigated
+209.169.192.53,IP Address,Benign,15,Low,55,Spamhaus,2026-08-09 04:44:52,Mitigated
+gbsyoy6gu5.edu,URL/Domain,Benign,0,Low,62,AbuseIPDB,2026-08-08 21:45:07,False Positive
+536b319e9e7c4d204d8b095e93b8f108c617cb539476a576acf57e4ddda59915,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-08-08 17:25:45,Investigating
+77.181.54.2,IP Address,Benign,15,Low,55,PhishTank,2026-08-08 14:21:14,Mitigated
+account-spb42.tk,URL/Domain,Malware,88,Critical,76,Spamhaus,2026-08-08 10:06:43,False Positive
+99.231.103.200,IP Address,Benign,15,Low,55,Spamhaus,2026-08-08 02:29:37,Mitigated
+140.183.31.102,IP Address,Benign,15,Low,55,MISP Feed,2026-08-08 00:32:42,Resolved
+ybaou1jqou83m-.gov,URL/Domain,Benign,3,Low,69,VirusTotal,2026-08-07 23:35:38,Investigating
+3def7bb41d0f7b15ef4db84e53f137eb0a218be3de1c4cb36f351cbc323a1779,File Hash,Spyware,30,Low,72,MISP Feed,2026-08-07 23:32:02,False Positive
+d2l6aflmqj8-mh.gov,URL/Domain,Benign,3,Low,69,AbuseIPDB,2026-08-07 22:10:57,Mitigated
+login-a-cers4.xyz,URL/Domain,Malware,100,Critical,83,MISP Feed,2026-08-07 20:26:35,Resolved
+4f24dfae14d5dae85e661c91a89483926e4b8171cd779df3fadbe6b90dbbbd21,File Hash,Spyware,30,Low,72,Internal Honeypot,2026-08-07 19:18:02,Mitigated
+invoice-iypqnvf2xf8md.xyz,URL/Domain,Phishing,88,Critical,76,AbuseIPDB,2026-08-07 07:35:58,False Positive
+f3543c0ebf1516311219da1eefb1aa8abd6096fedc7afb7643d4be3508f7d341,File Hash,Malware,30,Low,72,MISP Feed,2026-08-07 04:09:03,False Positive
+y0u9daqm2ox.co,URL/Domain,Data Exfiltration,33,Low,62,Internal Honeypot,2026-08-06 18:16:55,Resolved
+7a6ea3fd1bcd7e847b4df4d6912f0f75bf8a75d8925daa8924e84815abe4127b,File Hash,Ransomware,30,Low,72,Spamhaus,2026-08-06 16:48:23,Active
+2kqn6c3be3y.org,URL/Domain,Data Exfiltration,33,Low,62,Spamhaus,2026-08-06 14:33:01,Active
+107.86.186.218,IP Address,Benign,15,Low,55,MISP Feed,2026-08-06 10:17:58,Mitigated
+76.91.203.159,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-06 01:35:36,Active
+124.36.170.35,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-08-05 23:21:33,Investigating
+invoice-t219f6lz6m.tk,URL/Domain,Data Exfiltration,88,Critical,76,AlienVault OTX,2026-08-05 16:06:22,False Positive
+klxlim5l6h2.net,URL/Domain,Benign,18,Low,55,VirusTotal,2026-08-05 02:50:43,Investigating
+45.2.159.180,IP Address,Data Exfiltration,50,Medium,66,Internal Honeypot,2026-08-05 01:34:33,False Positive
+41.225.233.1,IP Address,Benign,15,Low,55,Spamhaus,2026-08-05 00:11:23,Mitigated
+squzuu2r.net,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-08-05 00:02:13,False Positive
+203.54.173.219,IP Address,Benign,15,Low,55,AbuseIPDB,2026-08-04 23:55:24,Resolved
+119.248.223.109,IP Address,Benign,15,Low,55,AlienVault OTX,2026-08-04 23:11:26,Mitigated
+eyfa0r0l93.gov,URL/Domain,Benign,3,Low,69,VirusTotal,2026-08-04 22:13:13,Resolved
+e29e7216572cf1434157a974d8bf05c07f5184d4284f994879404a2712904353,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-08-04 21:21:26,False Positive
+25.39.252.203,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-08-04 18:18:16,Resolved
+wallet-mft3j41bhkj25.work,URL/Domain,Phishing,88,Critical,76,Internal Honeypot,2026-08-04 18:15:29,False Positive
+secure-ko0jl6qkv3eo.top,URL/Domain,Phishing,88,Critical,76,AlienVault OTX,2026-08-04 09:57:41,False Positive
+194.175.154.186,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-08-04 09:33:59,Investigating
+15.89.253.113,IP Address,Benign,15,Low,55,AlienVault OTX,2026-08-04 05:04:34,False Positive
+9mmq52somk17mf.gov,URL/Domain,Benign,3,Low,69,AbuseIPDB,2026-08-04 03:46:57,Investigating
+0601b70af15e4a8098c4a5429def5c70c9c57b9f37414e8be33e4b20f9fa67e6,File Hash,Spyware,30,Low,72,VirusTotal,2026-08-03 21:27:29,Active
+tfkg9lc5blme.io,URL/Domain,Malware,33,Low,62,MISP Feed,2026-08-03 20:30:29,Mitigated
+91.225.133.95,IP Address,DDoS,50,Medium,66,VirusTotal,2026-08-03 08:30:47,Active
+91.47.39.127,IP Address,Data Exfiltration,50,Medium,66,PhishTank,2026-08-02 14:45:51,Active
+88.187.94.128,IP Address,Benign,15,Low,55,Spamhaus,2026-08-02 13:44:02,Mitigated
+81.208.61.138,IP Address,Benign,15,Low,55,PhishTank,2026-08-02 12:32:20,Mitigated
+89.8.96.220,IP Address,Data Exfiltration,50,Medium,66,AlienVault OTX,2026-08-02 11:28:33,Investigating
+23.224.60.199,IP Address,Benign,15,Low,55,Internal Honeypot,2026-08-02 07:35:13,Mitigated
+45.12.238.161,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-08-02 06:35:24,Resolved
+08080d129f46e0e291bf1fe841fac5102bc1c346eee9d2200ecf400b5a8cb87e,File Hash,Cryptomining,30,Low,72,Manual Analyst Report,2026-08-02 03:01:25,Investigating
+72448d90240666b4efcf2ee91e861e1ddfa3c533a62c9fda44effd16d2e5220b,File Hash,Ransomware,30,Low,72,Spamhaus,2026-08-01 23:26:57,False Positive
+7q5fphuvyp1nj.com,URL/Domain,Malware,33,Low,62,VirusTotal,2026-08-01 18:59:48,Resolved
+rupfr2p3-yvb5u.net,URL/Domain,Malware,33,Low,62,Manual Analyst Report,2026-08-01 16:04:26,Mitigated
+203.209.191.165,IP Address,Benign,15,Low,55,MISP Feed,2026-08-01 14:41:25,Investigating
+101.43.156.54,IP Address,Benign,15,Low,55,PhishTank,2026-08-01 13:58:06,False Positive
+gflgz1mzveuv.co,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-08-01 11:39:14,Active
+194.121.142.172,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-08-01 09:21:35,Investigating
+h91wlbx3w.gov,URL/Domain,Benign,0,Low,62,Spamhaus,2026-08-01 06:31:45,False Positive
+103.33.108.234,IP Address,Botnet C2,50,Medium,66,PhishTank,2026-08-01 05:07:44,Resolved
+170.88.77.152,IP Address,Benign,15,Low,55,VirusTotal,2026-08-01 01:32:22,Active
+49.215.85.154,IP Address,Benign,15,Low,55,Spamhaus,2026-07-31 16:19:09,Investigating
+28.108.160.131,IP Address,Benign,15,Low,55,PhishTank,2026-07-31 15:11:58,False Positive
+89.142.188.12,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-07-31 14:01:30,Mitigated
+-tntx3do.co,URL/Domain,Benign,18,Low,55,MISP Feed,2026-07-31 10:23:03,Active
+e6615d440077b904d2613c0273f7e6273527932e0f79d3ca6fcd6744e054138d,File Hash,Ransomware,30,Low,72,MISP Feed,2026-07-31 06:28:54,False Positive
+5.10.86.202,IP Address,Data Exfiltration,50,Medium,66,AlienVault OTX,2026-07-31 05:45:57,Mitigated
+72.59.181.206,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-31 02:17:08,Mitigated
+45.172.98.175,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-07-31 01:28:32,Investigating
+update-u9aaea0.work,URL/Domain,Data Exfiltration,88,Critical,76,PhishTank,2026-07-30 18:40:41,Mitigated
+118.214.87.195,IP Address,Benign,15,Low,55,PhishTank,2026-07-30 18:14:46,False Positive
+186.93.171.168,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-30 16:03:26,Investigating
+121.192.149.110,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-30 14:11:55,False Positive
+2kl--j4.org,URL/Domain,Data Exfiltration,30,Low,62,AlienVault OTX,2026-07-30 11:14:17,Investigating
+za83uj.edu,URL/Domain,Benign,0,Low,62,MISP Feed,2026-07-30 10:47:39,Resolved
+118.179.156.211,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-30 04:07:52,Investigating
+78.155.252.144,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-30 04:00:56,Active
+a1du10rh735x.co,URL/Domain,Malware,33,Low,62,AlienVault OTX,2026-07-30 03:16:58,Mitigated
+621883d29aad17550b7b85e664d15b761d2a4664bb285c1378f0f4c97b205cdb,File Hash,Cryptomining,30,Low,72,Spamhaus,2026-07-29 17:16:34,Investigating
+qjv8wziygs-.com,URL/Domain,Phishing,33,Low,62,PhishTank,2026-07-29 12:52:49,Active
+ed5c4f771ca9bf92e931220cc1d833dae69fcf34f1e8fa49621053cc2c78a7b5,File Hash,Ransomware,30,Low,72,MISP Feed,2026-07-29 01:55:04,Resolved
+80.143.251.220,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-29 00:05:59,Mitigated
+ncp2viruc70.org,URL/Domain,Data Exfiltration,33,Low,62,AlienVault OTX,2026-07-28 16:55:53,Mitigated
+204.58.110.111,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-28 13:55:34,Mitigated
+200.25.254.214,IP Address,Benign,15,Low,55,MISP Feed,2026-07-28 06:53:24,Mitigated
+pd9bdo4c.com,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-07-27 23:26:08,Investigating
+c3wjiq.org,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-07-27 19:39:47,Mitigated
+44.147.132.254,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-27 18:50:53,Investigating
+b16e78ef313c04d83896ad61a393d827db79e9ea06b30a22e5b4d483ec9d2478,File Hash,Malware,30,Low,72,VirusTotal,2026-07-27 01:38:53,Mitigated
+185.186.46.102,IP Address,Botnet C2,50,Medium,66,VirusTotal,2026-07-27 00:55:02,False Positive
+b05c450b55a5126bc7c98b8379a18d8e5cb5268389b92a2a9a65f8eabceb7ada,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-07-26 21:05:47,False Positive
+175.97.255.189,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-26 20:10:47,Mitigated
+i6so-.org,URL/Domain,Benign,18,Low,55,PhishTank,2026-07-26 18:00:21,Investigating
+151.13.113.227,IP Address,Benign,15,Low,55,VirusTotal,2026-07-26 15:33:11,Mitigated
+4qbcv0qmvdin9v.edu,URL/Domain,Benign,3,Low,69,AlienVault OTX,2026-07-26 11:01:22,Active
+103.180.181.161,IP Address,Data Exfiltration,50,Medium,66,MISP Feed,2026-07-26 10:44:33,Mitigated
+185.52.114.191,IP Address,Botnet C2,50,Medium,66,Spamhaus,2026-07-26 10:23:26,Mitigated
+87au5bh.edu,URL/Domain,Benign,0,Low,62,MISP Feed,2026-07-26 02:53:01,Investigating
+login-lb7l-5n3r81-d.work,URL/Domain,Data Exfiltration,100,Critical,83,VirusTotal,2026-07-25 23:30:51,Mitigated
+3wjrmhc0.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-07-25 21:29:22,Active
+194.158.96.142,IP Address,Benign,14,Medium,66,AlienVault OTX,2026-07-25 19:11:33,Active
+login-bu1yu99mn6.top,URL/Domain,Malware,88,Critical,76,AbuseIPDB,2026-07-24 23:09:07,Mitigated
+7.253.114.214,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-24 20:46:13,Resolved
+e7b150754fc339a9ec094d8650d3049097e1c5cf10c14a9426f596dea2e40aa1,File Hash,Ransomware,30,Low,72,VirusTotal,2026-07-24 12:09:50,Active
+6.175.55.174,IP Address,Benign,15,Low,55,VirusTotal,2026-07-24 10:12:21,Investigating
+6defbdbfe3962c11706b1087249e59bbbbbd0c5ea683fe8bb8f86d7acf04d849,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-07-24 03:46:21,Investigating
+17.9.228.95,IP Address,Benign,15,Low,55,Spamhaus,2026-07-23 21:22:00,Mitigated
+45.24.193.197,IP Address,DDoS,50,Medium,66,Internal Honeypot,2026-07-23 15:21:08,Investigating
+4r9v-vmiu-.net,URL/Domain,Malware,30,Low,62,Internal Honeypot,2026-07-23 11:12:13,False Positive
+0b2e0724f28d491fc6cfe522aefa878b17286a1f1f19cacb292e79f679343a6e,File Hash,Malware,30,Low,72,AlienVault OTX,2026-07-23 09:43:02,Mitigated
+xbjq3.net,URL/Domain,Benign,18,Low,55,MISP Feed,2026-07-23 07:04:09,False Positive
+103.104.135.130,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-07-23 03:08:35,Active
+103.172.194.72,IP Address,Botnet C2,50,Medium,66,Spamhaus,2026-07-23 02:00:38,Resolved
+174.165.71.175,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-23 00:03:08,Resolved
+166.94.56.179,IP Address,Benign,15,Low,55,VirusTotal,2026-07-22 18:16:04,Resolved
+verify--7cz1bn-lbvg.xyz,URL/Domain,Malware,100,Critical,83,Manual Analyst Report,2026-07-22 15:56:13,Mitigated
+ggtv25w.org,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-07-22 15:43:45,Resolved
+85.11.114.211,IP Address,Benign,15,Low,55,MISP Feed,2026-07-22 14:46:40,Mitigated
+6c903345d9642458a6044c9b98614825c9602c00941133bc71c12f12f497d936,File Hash,Cryptomining,30,Low,72,PhishTank,2026-07-22 13:29:36,Mitigated
+wallet-tn8gmbbbshn.top,URL/Domain,Data Exfiltration,88,Critical,76,AbuseIPDB,2026-07-22 12:30:50,Active
+185.225.174.48,IP Address,Botnet C2,50,Medium,66,AlienVault OTX,2026-07-22 11:35:57,Active
+20ccf92f8d1be67f93f8e0396fa5375fc36ba317f6fbdd6d90ae9ff721416822,File Hash,Cryptomining,30,Low,72,MISP Feed,2026-07-22 05:50:53,Investigating
+so7gfxp510dg.org,URL/Domain,Benign,18,Low,55,MISP Feed,2026-07-22 05:40:53,False Positive
+29d2bafeefc9a76d475da01a01c10125358780a236d8e0147b04727b8cb73b61,File Hash,Ransomware,30,Low,72,VirusTotal,2026-07-22 04:25:24,False Positive
+81.223.59.99,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-22 03:22:36,Resolved
+4by1ft8.net,URL/Domain,Benign,18,Low,55,VirusTotal,2026-07-21 15:08:27,Resolved
+159.41.214.169,IP Address,Benign,15,Low,55,PhishTank,2026-07-20 21:33:21,Mitigated
+64.197.216.103,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-20 17:59:47,False Positive
+77a4a13e92e57d7faef2563ded684c7ea17f4db27eebe91c31af48812e868fa0,File Hash,Malware,30,Low,72,AlienVault OTX,2026-07-20 15:01:38,Investigating
+45.36.91.182,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-07-20 11:45:42,Mitigated
+222.240.197.19,IP Address,Benign,15,Low,55,Spamhaus,2026-07-20 09:25:43,Active
+update-akui-6y3a5z.gq,URL/Domain,Data Exfiltration,100,Critical,83,Spamhaus,2026-07-20 05:54:18,Active
+d332019f2c8a6b577415d803fec312425dca4e0a3a40824b568e91fefa9fd9b6,File Hash,Spyware,30,Low,72,Manual Analyst Report,2026-07-20 03:26:20,False Positive
+46.151.132.179,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-20 01:37:41,Resolved
+201.6.63.79,IP Address,Benign,15,Low,55,PhishTank,2026-07-19 22:29:00,Resolved
+bp-1xnfmygr8.io,URL/Domain,Malware,33,Low,62,VirusTotal,2026-07-19 16:17:30,Mitigated
+b1d5e274c916d7557390c1448748c2861ad5a30804b8c673f0a9fa4611973b7f,File Hash,Cryptomining,30,Low,72,Spamhaus,2026-07-19 10:02:05,Active
+77qkxirhbv.org,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-07-19 07:59:51,Active
+b24dszcxz621h.com,URL/Domain,Malware,33,Low,62,VirusTotal,2026-07-19 07:52:56,Active
+196.22.67.64,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-18 23:47:58,False Positive
+ov14d61d.org,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-07-18 15:45:19,Mitigated
+rzjzczv.com,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-07-18 15:25:57,Active
+5.75.142.238,IP Address,Data Exfiltration,50,Medium,66,VirusTotal,2026-07-18 03:07:01,Investigating
+74.182.24.222,IP Address,Benign,15,Low,55,PhishTank,2026-07-18 00:27:38,Mitigated
+account-x-6k0ju1.tk,URL/Domain,Malware,100,Critical,83,AbuseIPDB,2026-07-18 00:27:19,False Positive
+5.45.185.233,IP Address,Data Exfiltration,50,Medium,66,PhishTank,2026-07-17 23:39:54,Investigating
+147.67.117.209,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-17 20:24:26,False Positive
+84.182.247.144,IP Address,Benign,15,Low,55,VirusTotal,2026-07-17 17:20:26,Resolved
+78.146.178.225,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-17 10:48:56,Mitigated
+nivp8h4nouwr6.gov,URL/Domain,Benign,3,Low,69,Spamhaus,2026-07-17 03:00:35,Active
+21.150.43.97,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-17 02:39:10,Mitigated
+r2xahhfh56o.com,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-07-17 01:33:00,False Positive
+43073d7ec76737eec2670fe75d02bf4cfab19bb69cdb8a00a465ed5a83f7e3dc,File Hash,Spyware,30,Low,72,Manual Analyst Report,2026-07-16 21:38:56,Active
+103.122.33.137,IP Address,Botnet C2,50,Medium,66,AbuseIPDB,2026-07-16 20:44:50,False Positive
+92.42.150.216,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-16 20:42:03,Active
+7f2316112c09911b5dc7364a451a7e32b9b8b335ae5134ab0b3bbf9c63b81553,File Hash,Cryptomining,30,Low,72,MISP Feed,2026-07-16 19:38:14,Active
+46lligyu6y0.co,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-07-16 14:30:24,Mitigated
+218.17.163.80,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-16 08:05:42,Resolved
+invoice-3ozll1zbm21.tk,URL/Domain,Malware,88,Critical,76,Internal Honeypot,2026-07-16 02:42:53,False Positive
+202.244.34.29,IP Address,Benign,15,Low,55,Spamhaus,2026-07-15 23:43:32,Active
+298d5a02be2f5041e2dfb0c02de625351475e5d91bc54c83ee3260fe479f30a3,File Hash,Malware,30,Low,72,AlienVault OTX,2026-07-15 15:57:53,Investigating
+163.54.214.122,IP Address,Benign,15,Low,55,AlienVault OTX,2026-07-15 13:06:28,False Positive
+088f152ec04ed1d9e02def7cc7418c3e4331e6ca71625a9566c7f4c06bf5074a,File Hash,Spyware,30,Low,72,AbuseIPDB,2026-07-15 08:05:25,Investigating
+wallet-fhjzzgkexmvmz.cf,URL/Domain,Data Exfiltration,88,Critical,76,Manual Analyst Report,2026-07-15 07:48:20,False Positive
+187.232.222.13,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-15 03:32:31,Active
+2.183.101.29,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-15 03:31:37,Investigating
+c984068d480ceb20a0e3bae403358038c79cfa4c22d7f918e57b2d97a388153b,File Hash,Ransomware,30,Low,72,PhishTank,2026-07-14 23:14:57,Resolved
+s06sn1qwp7a.gov,URL/Domain,Benign,3,Low,69,MISP Feed,2026-07-14 23:07:16,Active
+90.200.200.19,IP Address,Benign,15,Low,55,MISP Feed,2026-07-14 21:53:22,False Positive
+vevg9.gov,URL/Domain,Benign,0,Low,62,Spamhaus,2026-07-14 19:49:04,False Positive
+128.143.184.238,IP Address,Benign,15,Low,55,Spamhaus,2026-07-14 19:24:33,False Positive
+gvf6lcp2277k.org,URL/Domain,Data Exfiltration,33,Low,62,PhishTank,2026-07-14 14:53:14,Resolved
+invoice-ehhk5el8.gq,URL/Domain,Data Exfiltration,88,Critical,76,Spamhaus,2026-07-14 09:28:05,Mitigated
+2j2comxjfh.net,URL/Domain,Benign,18,Low,55,VirusTotal,2026-07-14 04:29:33,Mitigated
+44.133.116.124,IP Address,Benign,15,Low,55,PhishTank,2026-07-14 03:16:11,Investigating
+login-r9totsn5.loan,URL/Domain,Data Exfiltration,73,High,69,MISP Feed,2026-07-14 00:33:19,False Positive
+1l0b7uyqfh.com,URL/Domain,Data Exfiltration,33,Low,62,VirusTotal,2026-07-13 23:44:55,Investigating
+qnj97.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-07-13 20:20:26,Mitigated
+kyayq.edu,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-07-13 13:35:29,False Positive
+f9efe2772f107c03a27857dfd7c3d91f4224993fc1e8f03f84fb51e3efabb468,File Hash,Cryptomining,30,Low,72,AbuseIPDB,2026-07-13 05:27:42,Resolved
+80.227.115.142,IP Address,Benign,15,Low,55,Spamhaus,2026-07-12 13:24:40,Investigating
+185.34.218.216,IP Address,Botnet C2,50,Medium,66,AbuseIPDB,2026-07-12 11:51:03,Investigating
+2e9e763914ca7d4274926ac5c7966907084e599fe70df6fdfc4561aa2ea3d534,File Hash,Ransomware,30,Low,72,Spamhaus,2026-07-12 07:15:23,Investigating
+5yw8yg4-ok2.com,URL/Domain,Data Exfiltration,33,Low,62,AlienVault OTX,2026-07-12 04:15:42,Mitigated
+195.144.51.214,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-11 20:42:37,Mitigated
+7z4g25pf9a0.net,URL/Domain,Malware,33,Low,62,PhishTank,2026-07-11 20:17:19,Active
+64.60.148.77,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-11 19:21:12,Investigating
+b5f4bfba512200f036442a07f45580ef0cc658054722f5c8f67cf86035bdb4a6,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-07-11 16:39:37,Active
+7a9759770606eceb040b7c7556d8b2b0799630ed1171584c66f2feada3c154f1,File Hash,Cryptomining,30,Low,72,Spamhaus,2026-07-11 14:48:05,False Positive
+185.131.95.4,IP Address,Data Exfiltration,50,Medium,66,PhishTank,2026-07-11 08:19:13,Investigating
+7.191.228.125,IP Address,Benign,15,Low,55,AlienVault OTX,2026-07-11 05:16:16,Investigating
+a2ec03fb9315f7b6fb51eef7cf0aa72d2e307037f9ffa894088c13636b1d18c7,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-07-11 04:58:47,Active
+8x8c28n1g.gov,URL/Domain,Benign,0,Low,62,Internal Honeypot,2026-07-11 03:49:09,Resolved
+8x9q4el0h9co.net,URL/Domain,Data Exfiltration,33,Low,62,VirusTotal,2026-07-11 00:08:33,Resolved
+fdbd809ad71421d4061b89d5fdca65f604294990399123b901d5cb52cd886cb7,File Hash,Ransomware,30,Low,72,PhishTank,2026-07-10 23:00:08,Investigating
+c0qypw4.co,URL/Domain,Benign,18,Low,55,VirusTotal,2026-07-10 20:32:59,Mitigated
+17.85.222.71,IP Address,Benign,15,Low,55,Spamhaus,2026-07-10 11:21:44,Active
+91.51.110.154,IP Address,DDoS,50,Medium,66,Manual Analyst Report,2026-07-10 08:15:50,Active
+ktx1m5e8ns.org,URL/Domain,Data Exfiltration,33,Low,62,AlienVault OTX,2026-07-10 08:06:41,Resolved
+763a19979bedfe1eab098fc528137181002d9dc16b9504ab15cbd0c5aaa2ff63,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-07-10 07:15:43,False Positive
+185.253.100.118,IP Address,Benign,17,Medium,66,VirusTotal,2026-07-10 04:44:46,Resolved
+ccf23a3d0fbf3e6baa9d48f3e7b44648950b45c2fc4943361353e711f2c74462,File Hash,Malware,30,Low,72,MISP Feed,2026-07-10 01:42:24,Investigating
+111.28.63.133,IP Address,Benign,15,Low,55,VirusTotal,2026-07-09 22:59:52,Investigating
+ba8jgzmtu16.gov,URL/Domain,Benign,3,Low,69,AlienVault OTX,2026-07-09 19:00:53,Resolved
+18.240.48.213,IP Address,Benign,15,Low,55,Spamhaus,2026-07-09 18:59:31,Mitigated
+174.89.154.104,IP Address,Benign,15,Low,55,AlienVault OTX,2026-07-09 18:32:47,Investigating
+secure-02yh9q.tk,URL/Domain,Malware,88,Critical,76,AlienVault OTX,2026-07-09 13:40:09,Active
+sha5j3j7s9.gov,URL/Domain,Benign,0,Low,62,VirusTotal,2026-07-09 11:16:04,Mitigated
+194.16.65.128,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-07-09 09:00:48,Resolved
+173.51.126.196,IP Address,Benign,15,Low,55,VirusTotal,2026-07-09 08:18:12,Resolved
+127.69.114.230,IP Address,Benign,15,Low,55,VirusTotal,2026-07-09 06:07:09,Mitigated
+56.144.63.14,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-09 04:48:26,Resolved
+d0260cdbc6c98ffe26d5dfb01fdf43f51831a847a7f6b5e37b0460babacb00e4,File Hash,Ransomware,30,Low,72,PhishTank,2026-07-09 04:13:31,False Positive
+a8f81dee55ecf96e3b375a3b380c8ce8aeed86b358e64c675ca51a11efb046db,File Hash,Ransomware,30,Low,72,Spamhaus,2026-07-09 03:59:09,False Positive
+178.4.171.1,IP Address,Benign,15,Low,55,Spamhaus,2026-07-09 01:12:29,Investigating
+161.84.199.48,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-08 17:32:31,Active
+eoqm1h8ojrje.com,URL/Domain,Benign,18,Low,55,VirusTotal,2026-07-08 07:19:40,False Positive
+206.110.213.126,IP Address,Benign,15,Low,55,AlienVault OTX,2026-07-08 06:00:00,Investigating
+e5e31416b47b87ec473578890c98f0823d4b37d8db7828788cf0af64f5c2a5a3,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-07-08 01:03:25,False Positive
+77b00759af507f07582eb36c20b98a8b605c3ef895ac5d7a90f1295e8485f214,File Hash,Malware,30,Low,72,AbuseIPDB,2026-07-07 18:22:55,Active
+185.92.217.39,IP Address,DDoS,50,Medium,66,MISP Feed,2026-07-07 14:54:33,Resolved
+68.216.108.238,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-07 14:27:57,Mitigated
+89.70.49.232,IP Address,Data Exfiltration,50,Medium,66,AlienVault OTX,2026-07-07 12:56:34,Active
+2dnr9is25hbp.gov,URL/Domain,Benign,3,Low,69,VirusTotal,2026-07-07 08:56:14,Active
+205.27.122.65,IP Address,Benign,15,Low,55,Spamhaus,2026-07-07 05:43:45,Mitigated
+wzbhlu1lwpenx.org,URL/Domain,Malware,33,Low,62,VirusTotal,2026-07-07 00:32:23,Active
+80.44.255.25,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-06 22:48:48,Mitigated
+dzcj-d7s0z9.edu,URL/Domain,Benign,0,Low,62,MISP Feed,2026-07-06 16:27:44,Active
+193.144.203.129,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-06 14:46:11,Mitigated
+e-qu2w4x5t.edu,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-07-06 09:06:59,Investigating
+invoice-9uzwl5fvw8out.top,URL/Domain,Malware,88,Critical,76,Spamhaus,2026-07-06 06:21:13,Resolved
+1x2j2c6m.edu,URL/Domain,Benign,0,Low,62,Internal Honeypot,2026-07-06 03:23:58,False Positive
+184.38.215.175,IP Address,Benign,15,Low,55,Spamhaus,2026-07-05 17:20:15,Investigating
+login-st4pzt3edk204.click,URL/Domain,Phishing,88,Critical,76,PhishTank,2026-07-05 16:25:05,Resolved
+99.214.12.224,IP Address,Benign,15,Low,55,VirusTotal,2026-07-05 15:06:15,Investigating
+149.244.237.26,IP Address,Benign,15,Low,55,AlienVault OTX,2026-07-05 05:54:46,Active
+-l0ep5gvbshzx.co,URL/Domain,Malware,33,Low,62,AbuseIPDB,2026-07-04 23:23:38,Active
+189.205.166.31,IP Address,Benign,15,Low,55,VirusTotal,2026-07-04 21:13:45,Active
+cbkogg.io,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-07-04 20:33:46,Investigating
+u5dzt35hxgbod.net,URL/Domain,Malware,33,Low,62,AbuseIPDB,2026-07-04 13:07:48,Investigating
+203.21.230.233,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-04 06:57:54,Resolved
+xfx348kxx.gov,URL/Domain,Benign,0,Low,62,VirusTotal,2026-07-04 05:42:57,Mitigated
+g1oev.co,URL/Domain,Benign,18,Low,55,Spamhaus,2026-07-04 03:54:50,Mitigated
+141.135.68.105,IP Address,Benign,15,Low,55,MISP Feed,2026-07-04 02:54:28,Active
+0cee08ab4144c6c3f9ce3e0f9ea223270cd68b9eac282ebbb616cef63c614678,File Hash,Malware,30,Low,72,Internal Honeypot,2026-07-03 19:30:50,Resolved
+103.105.255.243,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-07-03 12:19:18,Resolved
+202.87.80.157,IP Address,Benign,15,Low,55,VirusTotal,2026-07-03 10:11:19,Resolved
+194.214.127.247,IP Address,Data Exfiltration,50,Medium,66,VirusTotal,2026-07-03 07:57:35,Mitigated
+j-r0y2efz6rx.io,URL/Domain,Data Exfiltration,33,Low,62,Manual Analyst Report,2026-07-03 07:48:15,Active
+account-civ47.loan,URL/Domain,Data Exfiltration,73,High,69,VirusTotal,2026-07-03 06:40:17,Mitigated
+103.255.190.119,IP Address,Data Exfiltration,50,Medium,66,AlienVault OTX,2026-07-03 02:04:18,Investigating
+wallet-fap9r9ndljdw.xyz,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-07-03 01:47:58,Active
+5e1ab911118922e1dd7d45ad09ecd4beddf8c7491f3899287810720ab187fa90,File Hash,Malware,30,Low,72,Internal Honeypot,2026-07-02 23:37:13,False Positive
+65.50.101.186,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-07-02 15:59:23,Investigating
+8cx8fgpwkc-.gov,URL/Domain,Benign,0,Low,62,Spamhaus,2026-07-02 13:19:13,Active
+68.173.203.167,IP Address,Benign,15,Low,55,AbuseIPDB,2026-07-02 09:33:51,Resolved
+0ae1bb602019e4bb2a76f37c972391f8126704c79680b5121a94bf059191bdb1,File Hash,Spyware,30,Low,72,MISP Feed,2026-07-01 19:09:01,Mitigated
+2a5a213a814b50d6f8905b7b1890f7a5cdc5e8d3b4279b7dc3688dd0407472b9,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-07-01 18:37:55,Resolved
+ugwak.io,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-07-01 16:44:05,Active
+aae543733fc3f432ec0cb712bdac93fd6702ae7d50c328ef4f4dec4dfc5dc95a,File Hash,Spyware,30,Low,72,Spamhaus,2026-07-01 13:36:53,Active
+130.32.115.48,IP Address,Benign,15,Low,55,Internal Honeypot,2026-07-01 05:02:07,Resolved
+4p40mgg1w103dg.com,URL/Domain,Benign,18,Low,55,Spamhaus,2026-07-01 01:00:51,Investigating
+89.70.194.168,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-06-30 21:20:17,Mitigated
+7bde3e56ab5ab912a78a174100232046afb55adafd20905fe87b5d10f87023d1,File Hash,Spyware,30,Low,72,PhishTank,2026-06-30 20:46:58,Resolved
+7zga6x9st.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-06-30 18:55:34,Mitigated
+107.246.158.145,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-30 15:15:19,Resolved
+6x4v8xhl18yf.net,URL/Domain,Data Exfiltration,33,Low,62,AlienVault OTX,2026-06-30 07:30:21,Mitigated
+185.82.38.141,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-06-30 07:21:53,False Positive
+164.51.195.132,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-30 05:48:35,Mitigated
+6fjax3yu2l6rgo.org,URL/Domain,Malware,33,Low,62,Manual Analyst Report,2026-06-30 03:14:04,False Positive
+838433807920fca5939614a79a90dbf6d4bfc26522863c13fdcb28201abc116a,File Hash,Cryptomining,30,Low,72,AbuseIPDB,2026-06-29 22:14:45,False Positive
+81.232.230.160,IP Address,Benign,15,Low,55,MISP Feed,2026-06-29 22:10:38,Investigating
+691f547324c9c638d16644d298523de594d63e76b3afb4ca133938c93d874a1e,File Hash,Spyware,30,Low,72,AbuseIPDB,2026-06-29 22:05:54,Resolved
+5.153.135.223,IP Address,DDoS,50,Medium,66,Internal Honeypot,2026-06-29 18:58:11,False Positive
+jp4nqgve35.edu,URL/Domain,Benign,3,Low,69,MISP Feed,2026-06-29 18:14:29,Resolved
+159.155.105.168,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-29 15:45:49,Active
+157.62.66.136,IP Address,Benign,15,Low,55,MISP Feed,2026-06-29 15:23:57,Investigating
+4fj7r37f7fp4e8.org,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-06-29 09:30:46,Active
+61.44.38.3,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-29 06:30:42,Active
+gkdnq4g2vqx.org,URL/Domain,Benign,18,Low,55,MISP Feed,2026-06-29 04:16:14,Resolved
+9c9be4bb822409160501e4211d97d6ef1a657ed8327da83359e8cd2940423fff,File Hash,Cryptomining,30,Low,72,AlienVault OTX,2026-06-29 02:24:58,Resolved
+1suyuljcn17r-.org,URL/Domain,Malware,33,Low,62,AbuseIPDB,2026-06-28 18:37:25,Investigating
+zm5u6dxzj1xyx.com,URL/Domain,Benign,18,Low,55,MISP Feed,2026-06-28 16:12:01,Mitigated
+verify-ow9o3r-d3251ek.loan,URL/Domain,Malware,100,Critical,83,AlienVault OTX,2026-06-28 11:38:21,Investigating
+4207233582ed06d926c7338f011f83796a39a14eb80198c3a2a7b3f96ae83bcb,File Hash,Malware,30,Low,72,AlienVault OTX,2026-06-28 09:35:46,Resolved
+109.187.178.49,IP Address,Benign,15,Low,55,PhishTank,2026-06-28 07:22:13,Active
+atvyxnt14c5.io,URL/Domain,Data Exfiltration,33,Low,62,PhishTank,2026-06-28 03:51:45,Mitigated
+account-b6s5b09ecmc.work,URL/Domain,Malware,88,Critical,76,AlienVault OTX,2026-06-28 02:03:26,False Positive
+secure-h2t-a.loan,URL/Domain,Malware,100,Critical,83,Internal Honeypot,2026-06-27 18:05:57,Mitigated
+fa4cfb6f33af87c34af0f0ea48f123db834c480ea276200defbc3dda3732bbc0,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-06-27 17:41:51,Resolved
+z7fztvovke6.co,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-06-27 16:12:34,Investigating
+185.218.85.177,IP Address,Botnet C2,50,Medium,66,Manual Analyst Report,2026-06-27 12:42:47,Active
+v30d7t-u98bn-.gov,URL/Domain,Benign,15,Low,76,PhishTank,2026-06-27 02:34:55,Investigating
+189.28.112.148,IP Address,Benign,15,Low,55,Spamhaus,2026-06-26 22:40:05,Investigating
+88.38.91.122,IP Address,Benign,15,Low,55,PhishTank,2026-06-26 21:02:06,False Positive
+156.101.89.251,IP Address,Benign,15,Low,55,MISP Feed,2026-06-26 17:09:23,False Positive
+32.255.233.106,IP Address,Benign,15,Low,55,Spamhaus,2026-06-26 16:10:08,False Positive
+2.194.215.103,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-26 15:52:16,Mitigated
+e89ecaa42a098390abcdb4d3883e27537cddbee06f6b9a385eacb84591d37c2d,File Hash,Spyware,30,Low,72,Spamhaus,2026-06-26 14:36:21,Resolved
+gvb37vmggaem-i.gov,URL/Domain,Benign,0,Low,62,MISP Feed,2026-06-26 13:39:51,Resolved
+0o-k8nhvi8bb.com,URL/Domain,Malware,33,Low,62,PhishTank,2026-06-26 08:51:45,Active
+172.100.164.75,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-26 07:02:42,Resolved
+0bce876c0fa9a1a21039b581c99c80690e4b41e9d1267960ec0e80167a1bc7cb,File Hash,Malware,30,Low,72,VirusTotal,2026-06-26 01:29:36,Mitigated
+1q4hx6-bqkdju3.gov,URL/Domain,Benign,3,Low,69,VirusTotal,2026-06-25 23:02:48,Active
+ktcnuj.com,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-06-25 14:33:57,False Positive
+verify-dmjdolc4qk31.xyz,URL/Domain,Phishing,88,Critical,76,Manual Analyst Report,2026-06-25 08:34:21,Resolved
+40khidkg04-.net,URL/Domain,Benign,18,Low,55,Spamhaus,2026-06-25 06:44:02,Active
+78.113.119.251,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-25 03:39:11,Mitigated
+178.123.227.188,IP Address,Benign,15,Low,55,Spamhaus,2026-06-25 02:05:28,Mitigated
+h7d4772urm-sp.org,URL/Domain,Malware,33,Low,62,Internal Honeypot,2026-06-24 20:35:10,Resolved
+133.118.86.173,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-24 20:16:54,Active
+1rdezx6kbj2cie.net,URL/Domain,Malware,33,Low,62,PhishTank,2026-06-24 15:03:12,False Positive
+182.136.202.70,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-24 07:37:25,False Positive
+52.77.109.79,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-24 06:18:05,Mitigated
+gyjuf753re2ym.org,URL/Domain,Malware,33,Low,62,VirusTotal,2026-06-24 02:50:37,Resolved
+89.84.224.12,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-06-23 20:20:40,Resolved
+183e53c728b870b8de4add555b5e11e6e50ac3fb89670a230349bc27961d18df,File Hash,Malware,30,Low,72,AlienVault OTX,2026-06-23 15:39:04,Investigating
+account-h-5cxsz.click,URL/Domain,Malware,100,Critical,83,Manual Analyst Report,2026-06-23 10:20:02,False Positive
+86.155.205.15,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-23 09:31:39,Mitigated
+-0bupk.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-06-23 04:09:56,False Positive
+b169bfd9a100ca62ebd1f358db7eb9fda9e056a45db3ecf08be49e77020b4357,File Hash,Spyware,30,Low,72,AbuseIPDB,2026-06-23 02:12:22,Active
+185.170.27.113,IP Address,Botnet C2,50,Medium,66,MISP Feed,2026-06-23 01:25:53,Active
+gyq9n2ournzj2o.gov,URL/Domain,Benign,0,Low,62,Spamhaus,2026-06-22 23:35:31,Resolved
+b00bb2d7ce015097aff770c0dcde314f1abe69421957d66cd81940e2158a800f,File Hash,Spyware,30,Low,72,AlienVault OTX,2026-06-22 15:44:50,Active
+yzhww3ltfiuhpt.com,URL/Domain,Data Exfiltration,33,Low,62,VirusTotal,2026-06-21 23:50:45,False Positive
+gkl9z6vk82w.org,URL/Domain,Data Exfiltration,33,Low,62,PhishTank,2026-06-21 13:58:47,Resolved
+secure-vihm20ap4v.top,URL/Domain,Data Exfiltration,88,Critical,76,MISP Feed,2026-06-21 13:52:57,Mitigated
+cf00089b94d110c2ac4fb4439620ee95862100ddfb37a97ce92b65111e74c006,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-06-21 10:05:52,False Positive
+f1hm-qt68.net,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-06-21 08:07:05,Resolved
+71.47.184.65,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-21 05:21:59,Investigating
+nnmax-g.edu,URL/Domain,Benign,0,Low,62,VirusTotal,2026-06-20 13:26:31,Investigating
+cdfc0f56d55edbfd0da2467e15a9633bf2c2570029911d2f4e7fb02942ff93f2,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-06-20 08:57:33,Mitigated
+206.131.128.178,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-20 08:29:18,Resolved
+4bvn8nn87q94.net,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-06-20 07:45:58,False Positive
+s95py.co,URL/Domain,Benign,18,Low,55,VirusTotal,2026-06-20 06:53:17,Active
+81.122.184.171,IP Address,Benign,15,Low,55,Spamhaus,2026-06-20 06:45:14,Active
+163.140.134.149,IP Address,Benign,15,Low,55,VirusTotal,2026-06-20 05:11:35,Resolved
+19.240.92.50,IP Address,Benign,15,Low,55,MISP Feed,2026-06-20 04:32:00,Active
+jpkl0blv0pr.net,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-06-20 03:34:58,Resolved
+hw2pp.com,URL/Domain,Benign,18,Low,55,PhishTank,2026-06-20 00:51:53,Resolved
+f9sx-mecosf.edu,URL/Domain,Benign,0,Low,62,AbuseIPDB,2026-06-19 18:52:19,Resolved
+094dfryi0m7p.gov,URL/Domain,Benign,3,Low,69,AlienVault OTX,2026-06-19 15:55:04,Resolved
+verify-vcr3fv9cia-.tk,URL/Domain,Phishing,100,Critical,83,Manual Analyst Report,2026-06-19 14:51:06,Active
+verify-pllb5hvf.cf,URL/Domain,Data Exfiltration,88,Critical,76,Spamhaus,2026-06-19 11:43:12,Investigating
+49.59.188.33,IP Address,Benign,15,Low,55,PhishTank,2026-06-19 07:59:16,Active
+fujeir.co,URL/Domain,Benign,18,Low,55,PhishTank,2026-06-19 07:14:32,False Positive
+47c16e30dc470aeb3ce2732fa542c5d89b112d0cae4d9f2428fc0cd373dbdbee,File Hash,Ransomware,30,Low,72,VirusTotal,2026-06-19 06:58:49,Mitigated
+bnjzetk-p-.io,URL/Domain,Malware,30,Low,62,PhishTank,2026-06-18 23:53:50,Active
+9cb3504959b49b1c36e63c51eabeece7fc05fbc370f3187e762583509f87f11e,File Hash,Spyware,30,Low,72,PhishTank,2026-06-18 23:31:42,Investigating
+166.103.90.142,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-18 22:02:18,Mitigated
+k-t42sjij.co,URL/Domain,Benign,18,Low,55,MISP Feed,2026-06-18 19:37:28,Investigating
+185.164.119.144,IP Address,Data Exfiltration,50,Medium,66,AbuseIPDB,2026-06-18 18:40:00,False Positive
+161.237.0.221,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-18 16:52:19,False Positive
+t0dmnv9ky71l.com,URL/Domain,Data Exfiltration,33,Low,62,Internal Honeypot,2026-06-18 08:20:04,Investigating
+g-gs8w.io,URL/Domain,Benign,18,Low,55,MISP Feed,2026-06-18 05:09:09,Resolved
+84.197.6.75,IP Address,Benign,15,Low,55,Spamhaus,2026-06-18 01:54:32,False Positive
+185.55.57.59,IP Address,Data Exfiltration,50,Medium,66,AlienVault OTX,2026-06-17 22:16:34,Active
+ba4ef4ccf79155054f743bf41243249100b3850340c3730b81179f413f7ca4e8,File Hash,Cryptomining,30,Low,72,MISP Feed,2026-06-17 13:48:55,Mitigated
+afb418bd3091773ef686bfaa6a5ed177f95a042d9486f4fc0e1fabb3ba6023ee,File Hash,Spyware,30,Low,72,AlienVault OTX,2026-06-17 11:52:32,Active
+ceed66f3e0951a98a721ad0eb9e49e290b8aa5a43d9a375ca3ee401f98076cff,File Hash,Malware,30,Low,72,Spamhaus,2026-06-17 03:32:28,Mitigated
+mheajh7gpng4.com,URL/Domain,Malware,33,Low,62,Manual Analyst Report,2026-06-17 02:57:59,Active
+87.235.71.72,IP Address,Benign,15,Low,55,MISP Feed,2026-06-17 02:30:33,Resolved
+1ca6dd9e4c3ab166e1ec20ac591302945e5a04d896e6e71b8dde0b37cccf9000,File Hash,Ransomware,30,Low,72,Internal Honeypot,2026-06-16 23:11:15,Resolved
+130.125.195.5,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-16 15:25:18,False Positive
+5c58a2aad4a014f066dc9ef35b03fb952a2a35a76744b8e88b5b4e2f500da4a7,File Hash,Cryptomining,30,Low,72,VirusTotal,2026-06-16 01:14:32,Active
+x7454rzcno.io,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-06-15 21:02:02,Mitigated
+178.102.245.81,IP Address,Benign,15,Low,55,VirusTotal,2026-06-15 17:22:23,Mitigated
+187.191.251.104,IP Address,Benign,15,Low,55,Spamhaus,2026-06-15 15:24:25,Resolved
+wdds54s8ag1iqx.org,URL/Domain,Malware,33,Low,62,AlienVault OTX,2026-06-15 03:07:48,False Positive
+2x6g26oc7t3b.com,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-06-14 13:28:21,Active
+181.24.125.190,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-14 13:00:38,Investigating
+20.130.133.98,IP Address,Benign,15,Low,55,VirusTotal,2026-06-14 12:23:16,Active
+n-wdqhd.net,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-06-14 11:39:13,Mitigated
+147.148.91.222,IP Address,Benign,15,Low,55,VirusTotal,2026-06-14 08:57:55,Resolved
+m46bh8lbrnp2f.edu,URL/Domain,Benign,3,Low,69,PhishTank,2026-06-14 07:33:06,Active
+74.38.123.219,IP Address,Benign,15,Low,55,MISP Feed,2026-06-14 06:28:06,Active
+w53-a7om.org,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-06-14 06:11:10,Active
+verify--5h3u9.click,URL/Domain,Malware,100,Critical,83,MISP Feed,2026-06-14 02:27:30,False Positive
+89.178.65.131,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-06-14 01:05:51,Mitigated
+32a98ad348b6f733c491dc2fc259912e6f3ed377aca9b7f085659489b013a4e6,File Hash,Ransomware,30,Low,72,Internal Honeypot,2026-06-14 00:37:40,False Positive
+185.153.158.171,IP Address,Benign,7,Medium,66,PhishTank,2026-06-13 18:13:41,False Positive
+0e4580466bdf57e4baa180350e77163d0598995e2693bafc15b9a14f18749337,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-06-13 00:53:03,Mitigated
+103.36.116.234,IP Address,Botnet C2,50,Medium,66,MISP Feed,2026-06-12 14:51:53,Resolved
+wallet-lu2dwa5.cf,URL/Domain,Malware,73,High,69,Manual Analyst Report,2026-06-12 11:05:22,Resolved
+j5ci6vg2g73.com,URL/Domain,Phishing,33,Low,62,VirusTotal,2026-06-12 05:09:10,Investigating
+wallet-xqs3h4de4m.cf,URL/Domain,Data Exfiltration,88,Critical,76,MISP Feed,2026-06-12 03:01:27,Investigating
+9c3fuquhz6a.co,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-06-12 03:01:09,Investigating
+wallet-i64xly54ikmo.xyz,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-06-11 20:53:23,Investigating
+j2xlqp5l7cvfjj.edu,URL/Domain,Benign,3,Low,69,Manual Analyst Report,2026-06-11 15:02:31,Investigating
+113.179.109.161,IP Address,Benign,15,Low,55,VirusTotal,2026-06-11 06:33:43,Resolved
+0no39yhm4.org,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-06-11 05:30:50,Resolved
+163.241.63.168,IP Address,Benign,15,Low,55,MISP Feed,2026-06-10 22:27:43,Resolved
+203.152.200.157,IP Address,Benign,15,Low,55,VirusTotal,2026-06-10 19:55:19,Investigating
+212.167.144.51,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-10 15:36:31,Investigating
+8cc61672ebe4653677cdd075f6a09def7035dde951ab1ea7c39a89d1cf99bf76,File Hash,Ransomware,30,Low,72,Internal Honeypot,2026-06-10 14:20:43,Mitigated
+189.139.209.177,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-10 13:55:57,Resolved
+3fc3adc5350660a358ef6a0a36432fbd1da5e2f40db746ff274a1478b98267bf,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-06-10 12:52:54,Mitigated
+0vkgnj6om978.gov,URL/Domain,Benign,3,Low,69,AbuseIPDB,2026-06-10 12:13:36,Active
+123.78.232.192,IP Address,Benign,15,Low,55,PhishTank,2026-06-10 08:59:44,Resolved
+aabaf6cadd9a9249c2496bcf79cff1915d18e88310614489c78c02a31273bcde,File Hash,Cryptomining,30,Low,72,MISP Feed,2026-06-10 06:57:58,Active
+qxv4ztco.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-06-09 13:29:11,Mitigated
+9c6c8c001ce213a3309831bd7ed97589d102c69fd95eb305fc27653d591ef636,File Hash,Cryptomining,30,Low,72,PhishTank,2026-06-09 07:04:13,False Positive
+135.144.127.203,IP Address,Benign,15,Low,55,Spamhaus,2026-06-09 04:35:43,Mitigated
+203.195.179.151,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-09 00:07:05,Mitigated
+635c31728b519415033c8382de7b35bdda3158b8d6454fd61561c9a719de537a,File Hash,Spyware,30,Low,72,VirusTotal,2026-06-08 19:07:23,Investigating
+194.74.29.61,IP Address,Data Exfiltration,50,Medium,66,AlienVault OTX,2026-06-08 16:28:29,Investigating
+27a61c428891efc308dadcc13365e63d935d31112f84fa19f604ed70b4158209,File Hash,Malware,30,Low,72,Spamhaus,2026-06-08 16:05:26,Investigating
+wallet-4ilao.gq,URL/Domain,Phishing,73,High,69,MISP Feed,2026-06-08 15:17:08,Mitigated
+update-r4nkaonfjjk4au.click,URL/Domain,Malware,88,Critical,76,Manual Analyst Report,2026-06-08 11:49:08,Mitigated
+52bfsozptx49.co,URL/Domain,Data Exfiltration,33,Low,62,PhishTank,2026-06-08 08:57:13,Mitigated
+secure-nhsapvlyoxz.tk,URL/Domain,Phishing,88,Critical,76,MISP Feed,2026-06-08 08:13:12,Mitigated
+178.203.108.183,IP Address,Benign,15,Low,55,Spamhaus,2026-06-08 07:14:58,Mitigated
+fh6tx.co,URL/Domain,Benign,18,Low,55,VirusTotal,2026-06-08 05:01:47,Active
+8dqh75l2skc.org,URL/Domain,Data Exfiltration,33,Low,62,PhishTank,2026-06-08 00:59:58,Investigating
+o3sq3dglc.org,URL/Domain,Benign,18,Low,55,PhishTank,2026-06-08 00:46:22,Active
+emu52vtj-.edu,URL/Domain,Benign,0,Low,62,PhishTank,2026-06-07 22:51:10,Active
+185.96.35.37,IP Address,Data Exfiltration,50,Medium,66,AbuseIPDB,2026-06-07 20:03:48,Resolved
+dv1a14ss.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-06-07 19:58:21,False Positive
+48.88.61.97,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-07 18:49:50,False Positive
+a3ad245ebe6a5d9cd4906f532d18a0a7690c7eab761c74700b7ddbdf477ca860,File Hash,Ransomware,30,Low,72,PhishTank,2026-06-07 17:36:50,Mitigated
+185.72.6.171,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-06-07 16:49:48,Active
+udbcixwbv.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-06-07 16:25:35,Mitigated
+vvlqv593gv7qe.edu,URL/Domain,Benign,0,Low,62,PhishTank,2026-06-07 05:36:27,Active
+183.240.51.33,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-07 04:07:17,Investigating
+5.57.39.5,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-06-07 03:26:41,Investigating
+189.37.161.229,IP Address,Benign,15,Low,55,AlienVault OTX,2026-06-07 01:20:09,False Positive
+39.18.189.150,IP Address,Benign,15,Low,55,VirusTotal,2026-06-07 00:21:09,Active
+71.129.14.183,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-07 00:08:14,Resolved
+tv28ini8mit.gov,URL/Domain,Benign,0,Low,62,VirusTotal,2026-06-06 23:42:28,False Positive
+103.28.150.92,IP Address,DDoS,50,Medium,66,PhishTank,2026-06-06 23:41:33,Investigating
+91.133.224.220,IP Address,Botnet C2,50,Medium,66,AbuseIPDB,2026-06-06 23:40:05,Active
+55.146.241.72,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-06 22:15:46,Mitigated
+892bf62cdaad4fd49fe363002371b27281f8b1eabc447d377bbb46667c5997b0,File Hash,Spyware,30,Low,72,VirusTotal,2026-06-06 19:49:02,Resolved
+c8zplf8gij.gov,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-06-06 18:59:29,Mitigated
+189.126.124.19,IP Address,Benign,15,Low,55,MISP Feed,2026-06-06 17:13:03,False Positive
+100.133.186.206,IP Address,Benign,15,Low,55,MISP Feed,2026-06-06 15:30:47,Mitigated
+verify-bdbm8yb9.cf,URL/Domain,Data Exfiltration,88,Critical,76,VirusTotal,2026-06-06 13:27:08,False Positive
+16zmqlmrzgtk.gov,URL/Domain,Benign,3,Low,69,Manual Analyst Report,2026-06-06 12:44:55,Resolved
+d3b3c4b02109389582e58818d9311ee711e41b32d559f750b827e67194e3882c,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-06-06 07:41:07,Active
+65.177.187.115,IP Address,Benign,15,Low,55,AbuseIPDB,2026-06-06 02:31:39,Resolved
+hvvgcew20.gov,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-06-05 18:27:36,Resolved
+login-83z0pp9k4.tk,URL/Domain,Phishing,88,Critical,76,Spamhaus,2026-06-05 08:20:28,Mitigated
+15.4.87.22,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-05 05:30:44,Mitigated
+wallet-r1uqkerdyyvd.gq,URL/Domain,Data Exfiltration,88,Critical,76,VirusTotal,2026-06-05 02:27:57,Resolved
+4e01a92b2edc1c87d38ad38e1371f19674bde77b3eaa5a1ca4595a972fbd17b2,File Hash,Ransomware,30,Low,72,VirusTotal,2026-06-05 01:05:06,Investigating
+4e3fcdc2f27dc0ed73c357c540630e6a01d5b17bd2e60c265067f7a291e4ce99,File Hash,Malware,30,Low,72,VirusTotal,2026-06-05 00:30:37,Resolved
+secure-jxfpk5fvddwj8g.ml,URL/Domain,Data Exfiltration,88,Critical,76,PhishTank,2026-06-04 21:58:01,Active
+puyrzxh-m8l9b3.gov,URL/Domain,Benign,3,Low,69,Internal Honeypot,2026-06-04 18:23:08,Active
+219.106.194.13,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-06-04 14:27:32,Investigating
+bkrisc-dmz586.com,URL/Domain,Malware,33,Low,62,VirusTotal,2026-06-04 10:27:01,Resolved
+d81ac06d4046fde499741421dd55bcc1b47cb156d6f3bcfd48084c8d456e1ee7,File Hash,Cryptomining,30,Low,72,Spamhaus,2026-06-04 06:10:13,False Positive
+em6jr.com,URL/Domain,Benign,18,Low,55,VirusTotal,2026-06-04 03:22:20,Mitigated
+fdaaa80c60e89ce4c08425404823c82c4bdc883e15b3e901adb1868871dbeaa0,File Hash,Cryptomining,30,Low,72,PhishTank,2026-06-03 23:28:00,Resolved
+0g50rcx.net,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-06-03 20:23:46,Mitigated
+ziwnz003.gov,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-06-03 14:51:00,Resolved
+277ec39b67410b4e16714f6ea7141989b8c53436f561ed9c2abff83d85e624a9,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-06-03 14:50:56,Active
+f4c549e6c5b1a2ba5ef148d4a4f662c29684d5c0faa1af923b1e6066fb57ce99,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-06-03 13:15:16,Resolved
+223.105.185.41,IP Address,Benign,15,Low,55,MISP Feed,2026-06-03 10:34:25,Resolved
+7.189.104.73,IP Address,Benign,15,Low,55,Spamhaus,2026-06-03 10:01:39,Investigating
+91.142.236.64,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-06-03 08:57:21,Active
+secure-ke5upvrd6o9y.top,URL/Domain,Phishing,88,Critical,76,Manual Analyst Report,2026-06-03 08:07:45,Resolved
+100.158.117.64,IP Address,Benign,15,Low,55,MISP Feed,2026-06-03 06:10:59,Investigating
+2192631e245128dbf8752cb7afcde78896eabfb96169e639f21456db813a1dac,File Hash,Spyware,30,Low,72,PhishTank,2026-06-03 04:34:40,Mitigated
+htz45qf8ylxy.org,URL/Domain,Malware,33,Low,62,VirusTotal,2026-06-03 03:22:05,Mitigated
+178.79.45.209,IP Address,Benign,15,Low,55,Internal Honeypot,2026-06-02 23:12:05,Active
+8rlsw.io,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-06-02 17:10:23,Mitigated
+i9htb.io,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-06-02 15:58:49,Active
+5.215.191.229,IP Address,DDoS,50,Medium,66,Spamhaus,2026-06-02 15:14:54,Resolved
+5od7b1-u9er04h.io,URL/Domain,Malware,33,Low,62,PhishTank,2026-06-02 13:06:36,Active
+6hl8iz.io,URL/Domain,Benign,18,Low,55,PhishTank,2026-06-02 04:05:08,Investigating
+a101e0c34f75513169cf848fbc16fb7f668354324a704fd4bde3829263a4dc83,File Hash,Cryptomining,30,Low,72,Spamhaus,2026-06-01 20:20:22,Resolved
+82.123.238.32,IP Address,Benign,15,Low,55,MISP Feed,2026-06-01 19:57:58,Investigating
+bdff66aa7ae5a0be49efd4c0b19d7f5f7728406da84a6707d53de62fb324502f,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-06-01 19:33:21,Investigating
+oq4txjtvw.edu,URL/Domain,Benign,0,Low,62,PhishTank,2026-06-01 17:46:41,Resolved
+d3a5f08effc2254bf7bd62a015394fe38fddbcc32ad48008aee3b1258ee385b0,File Hash,Spyware,30,Low,72,Internal Honeypot,2026-06-01 16:15:53,Active
+invoice-5u3p1zcyuz-8.xyz,URL/Domain,Malware,100,Critical,83,AbuseIPDB,2026-06-01 12:21:27,Active
+213.66.210.203,IP Address,Benign,15,Low,55,PhishTank,2026-06-01 11:34:33,Investigating
+213.62.240.182,IP Address,Benign,15,Low,55,MISP Feed,2026-06-01 06:23:04,Mitigated
+login-6ier0v6rast5j2.ml,URL/Domain,Data Exfiltration,88,Critical,76,Spamhaus,2026-05-31 17:16:37,Investigating
+8.46.110.97,IP Address,Benign,15,Low,55,Spamhaus,2026-05-31 16:34:52,Investigating
+account-9uoe3t0hicct5h.click,URL/Domain,Phishing,88,Critical,76,Spamhaus,2026-05-31 15:29:04,False Positive
+103.49.210.60,IP Address,Benign,2,Medium,66,AlienVault OTX,2026-05-31 15:00:52,Resolved
+32a2b5414ff3083780aed6746d7e51668f00477ccb4f30a7b6c37c8e82318717,File Hash,Spyware,30,Low,72,AlienVault OTX,2026-05-31 14:21:48,Investigating
+43.33.23.77,IP Address,Benign,15,Low,55,MISP Feed,2026-05-31 10:02:58,False Positive
+wallet-5i0gqmm.cf,URL/Domain,Malware,88,Critical,76,Internal Honeypot,2026-05-30 22:03:14,Mitigated
+mebo7v0vu.io,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-05-30 17:55:17,False Positive
+69.203.40.96,IP Address,Benign,15,Low,55,Spamhaus,2026-05-30 08:25:18,Investigating
+account-pptfethv.ml,URL/Domain,Malware,88,Critical,76,AlienVault OTX,2026-05-30 05:02:39,Resolved
+122.123.115.77,IP Address,Benign,15,Low,55,VirusTotal,2026-05-30 02:53:41,False Positive
+42.235.12.250,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-05-29 23:56:44,Resolved
+2fde8a7943373d25159284b64b16d6b7f971d98b196bf9d7511166fc5d359552,File Hash,Cryptomining,30,Low,72,Manual Analyst Report,2026-05-29 21:19:27,Mitigated
+a4kwg49zn4.gov,URL/Domain,Benign,0,Low,62,Spamhaus,2026-05-29 20:09:17,Active
+verify-w84sgohs02u.top,URL/Domain,Malware,88,Critical,76,VirusTotal,2026-05-29 17:22:54,Active
+93axms.org,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-05-29 15:35:03,False Positive
+24.214.33.29,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-05-29 13:52:49,False Positive
+95.140.200.99,IP Address,Benign,15,Low,55,AbuseIPDB,2026-05-29 13:48:50,Resolved
+105.238.236.84,IP Address,Benign,15,Low,55,Spamhaus,2026-05-29 12:05:05,Resolved
+muisebn-33p2.edu,URL/Domain,Benign,3,Low,69,VirusTotal,2026-05-29 10:46:49,Active
+214.1.11.251,IP Address,Benign,15,Low,55,MISP Feed,2026-05-29 09:10:12,Resolved
+194.78.38.46,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-05-29 08:28:04,False Positive
+133.113.228.96,IP Address,Benign,15,Low,55,Spamhaus,2026-05-29 07:33:46,False Positive
+101.111.156.238,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-29 06:30:04,Resolved
+0a9pmh7gx8.co,URL/Domain,Malware,33,Low,62,Internal Honeypot,2026-05-29 06:11:02,Investigating
+108.91.83.102,IP Address,Benign,15,Low,55,AbuseIPDB,2026-05-29 01:59:02,Mitigated
+p9usy38wtqx.co,URL/Domain,Data Exfiltration,33,Low,62,Manual Analyst Report,2026-05-29 01:24:09,Resolved
+login-xq9fifs.tk,URL/Domain,Malware,88,Critical,76,AlienVault OTX,2026-05-28 10:20:30,False Positive
+dgydf1zl2wtv.gov,URL/Domain,Benign,3,Low,69,AbuseIPDB,2026-05-28 08:19:12,Investigating
+v-vt0vkg3c5oao.gov,URL/Domain,Benign,0,Low,62,Internal Honeypot,2026-05-28 06:16:35,Investigating
+209.213.76.196,IP Address,Benign,15,Low,55,VirusTotal,2026-05-27 23:53:29,False Positive
+3hj5s6.io,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-05-27 20:07:07,Resolved
+account-icdit16w.click,URL/Domain,Malware,88,Critical,76,VirusTotal,2026-05-27 17:45:15,False Positive
+s-2mr4fxz.io,URL/Domain,Benign,18,Low,55,VirusTotal,2026-05-27 12:55:21,Resolved
+2f284d4b197d6961471dcc608fbd9f4acf99da5b1016c50ecb417c0764f7ddca,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-05-27 03:41:53,Investigating
+qatswzza46jzo.net,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-05-26 20:28:59,False Positive
+89.171.128.64,IP Address,DDoS,50,Medium,66,AbuseIPDB,2026-05-26 20:18:51,Mitigated
+58xhu.co,URL/Domain,Benign,18,Low,55,Spamhaus,2026-05-26 20:01:24,Mitigated
+91.11.150.107,IP Address,DDoS,50,Medium,66,VirusTotal,2026-05-26 16:22:11,Resolved
+8.17.182.221,IP Address,Benign,15,Low,55,PhishTank,2026-05-26 11:58:58,False Positive
+169.123.87.131,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-26 11:29:58,Mitigated
+yrjvz.co,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-05-25 13:06:59,Resolved
+6b5464b9b99cf5c6d367c44e8b290e5b9c2c1995eb2037a30476134619a175a2,File Hash,Spyware,30,Low,72,Spamhaus,2026-05-25 07:38:38,Active
+3c1a42e2ab1611e6099a6110d7bb9c593f6bc434a07b9243f0c2e7228ac3ba81,File Hash,Malware,30,Low,72,Spamhaus,2026-05-25 07:25:38,Investigating
+194.6.132.94,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-05-25 06:28:31,Investigating
+44c4f8235ee6b10d25de034d50f9baf3a4f4d2abc647ec62d7c17ff90433ec5d,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-05-25 05:18:26,Investigating
+103.125.149.34,IP Address,Botnet C2,50,Medium,66,Spamhaus,2026-05-25 05:03:03,Active
+e970d98b28288641db7abd3c79b533892329e7403fd8c9e0436a83a8b8e79495,File Hash,Spyware,30,Low,72,VirusTotal,2026-05-24 11:13:14,Active
+26b46j.net,URL/Domain,Benign,18,Low,55,PhishTank,2026-05-24 09:55:41,Mitigated
+128.221.222.243,IP Address,Benign,15,Low,55,VirusTotal,2026-05-24 02:49:01,Mitigated
+d9uqu0z21zq.com,URL/Domain,Benign,18,Low,55,MISP Feed,2026-05-23 21:01:16,Mitigated
+65.182.42.4,IP Address,Benign,15,Low,55,AbuseIPDB,2026-05-23 20:09:17,False Positive
+j4al05i.edu,URL/Domain,Benign,0,Low,62,PhishTank,2026-05-23 18:04:07,Mitigated
+199.66.69.124,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-23 14:35:58,False Positive
+165.204.182.122,IP Address,Benign,15,Low,55,Spamhaus,2026-05-23 10:22:21,Mitigated
+171.84.116.176,IP Address,Benign,15,Low,55,PhishTank,2026-05-23 00:44:08,Mitigated
+239c3666741061100f1746f61fe04f0a742b522756c8f7d7e470beefb1ae347d,File Hash,Malware,30,Low,72,MISP Feed,2026-05-22 02:33:48,False Positive
+login-cw49n0dfr9ue.gq,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-05-22 00:21:38,Investigating
+z7zo-w0go3jma.edu,URL/Domain,Benign,3,Low,69,AbuseIPDB,2026-05-21 23:44:13,Active
+f4s1uq7-wi-57.gov,URL/Domain,Benign,15,Low,76,Manual Analyst Report,2026-05-21 22:26:33,False Positive
+df-o8cl0l.com,URL/Domain,Benign,18,Low,55,Spamhaus,2026-05-21 22:12:33,Mitigated
+57.163.37.183,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-21 21:27:56,False Positive
+a4bf5a18f68b343a28937743bc6a127bab8e452276f17eb250b256a383936c72,File Hash,Malware,30,Low,72,Spamhaus,2026-05-21 15:11:25,Investigating
+5be596f4415eed5cbe115b08f87ae088fb1a875f1f57f04e8a79c078c2f6b4b7,File Hash,Cryptomining,30,Low,72,AbuseIPDB,2026-05-21 14:24:31,False Positive
+100.164.98.122,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-21 06:56:55,Investigating
+2m3aq0.co,URL/Domain,Benign,18,Low,55,MISP Feed,2026-05-21 06:00:50,Investigating
+215.63.230.118,IP Address,Benign,15,Low,55,VirusTotal,2026-05-21 04:50:05,False Positive
+x28k8th.com,URL/Domain,Benign,18,Low,55,Spamhaus,2026-05-20 23:41:58,Resolved
+secure-ov5o2hg.xyz,URL/Domain,Data Exfiltration,88,Critical,76,Manual Analyst Report,2026-05-20 15:38:33,Resolved
+62.89.19.153,IP Address,Benign,15,Low,55,VirusTotal,2026-05-20 06:42:31,Active
+f14626cd0347af03bcf52ac6d16644930d42695ec4fbc58750b46e593b429084,File Hash,Malware,30,Low,72,Spamhaus,2026-05-20 01:18:55,False Positive
+ab68c39b552d924f9ee5480363a7c6ee291e928edc31fc783f8d5bf7e83d9792,File Hash,Spyware,30,Low,72,AlienVault OTX,2026-05-19 23:55:59,Resolved
+7m1k1q.gov,URL/Domain,Benign,0,Low,62,MISP Feed,2026-05-19 09:34:46,Resolved
+13.128.70.90,IP Address,Benign,15,Low,55,MISP Feed,2026-05-19 08:34:35,Investigating
+2868e6b0725f49ec581b46a1605c02bdb01aa4b51550969dd452811284fc44ae,File Hash,Malware,30,Low,72,Spamhaus,2026-05-19 01:06:59,False Positive
+94ircg.com,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-05-18 20:47:30,Mitigated
+ae5ff7636fbe2bebd26c4a99c651ec51b000860afe1e3897e0cfa0038823fb53,File Hash,Ransomware,30,Low,72,Internal Honeypot,2026-05-18 19:20:13,Investigating
+107.97.107.253,IP Address,Benign,15,Low,55,AbuseIPDB,2026-05-18 15:53:26,Resolved
+d18c1c343655d8c2108f990fc8df0b86c3fc2de3317eef6468884eae9993c61c,File Hash,Spyware,30,Low,72,VirusTotal,2026-05-18 11:57:09,Mitigated
+02b248ef56b33c01b976d1eb5d8c72beaad7ee0533a7843570750dd211281f05,File Hash,Ransomware,30,Low,72,VirusTotal,2026-05-18 05:49:11,Resolved
+update-5-kxk.top,URL/Domain,Malware,85,Critical,76,Internal Honeypot,2026-05-18 04:53:57,Active
+160.144.136.143,IP Address,Benign,15,Low,55,PhishTank,2026-05-17 14:51:03,Investigating
+2wzmtfc8vyi78s.net,URL/Domain,Malware,33,Low,62,AbuseIPDB,2026-05-17 08:54:10,Mitigated
+125.226.212.70,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-17 00:50:55,Mitigated
+190.248.191.211,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-16 23:12:17,Active
+92.24.148.75,IP Address,Benign,15,Low,55,AbuseIPDB,2026-05-16 21:56:10,Investigating
+180.127.188.116,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-05-16 13:57:04,Investigating
+a54552ebeaf70a6d65ce282be5be17b30423cac0813541c9d093efba22e8b1a8,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-05-16 08:47:34,Active
+8rmbvu.net,URL/Domain,Benign,18,Low,55,PhishTank,2026-05-16 04:28:36,Resolved
+1.17.145.153,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-16 00:04:28,Mitigated
+187.88.206.232,IP Address,Benign,15,Low,55,PhishTank,2026-05-15 23:13:26,Resolved
+15.85.132.237,IP Address,Benign,15,Low,55,VirusTotal,2026-05-15 14:13:50,False Positive
+214.39.128.97,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-15 14:12:59,Mitigated
+update-091zpkyy.cf,URL/Domain,Malware,88,Critical,76,Internal Honeypot,2026-05-15 06:39:58,Mitigated
+a9c71edaf82290a6e0ef2f280e3f853a944de7dff5fb6acb21f518a4ccb92adb,File Hash,Spyware,30,Low,72,AbuseIPDB,2026-05-15 01:40:52,Mitigated
+kcv6jv8k-inzf.com,URL/Domain,Malware,33,Low,62,AlienVault OTX,2026-05-15 01:12:46,False Positive
+f75b44b5aead7d3028c3c49dd5a868945233627757e8dc490c0ab39ff422a1d9,File Hash,Malware,30,Low,72,MISP Feed,2026-05-14 21:32:54,False Positive
+171.127.113.156,IP Address,Benign,15,Low,55,Spamhaus,2026-05-14 17:16:56,Investigating
+verify-hc15k75i90za.gq,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-05-14 17:15:18,False Positive
+49b091d19eb934702a6b6db96e2c2e8593e5fb10cdcc1df33b4dda91e90d12bb,File Hash,Malware,30,Low,72,PhishTank,2026-05-14 15:21:45,Resolved
+-djgfw80o.edu,URL/Domain,Benign,0,Low,62,Spamhaus,2026-05-14 13:45:03,False Positive
+157.87.117.23,IP Address,Benign,15,Low,55,Spamhaus,2026-05-14 11:10:51,Investigating
+194.211.228.172,IP Address,Data Exfiltration,50,Medium,66,AbuseIPDB,2026-05-14 09:47:01,Investigating
+169.70.44.187,IP Address,Benign,15,Low,55,Spamhaus,2026-05-14 06:41:39,Investigating
+44.71.250.48,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-14 03:45:40,Active
+141.27.13.198,IP Address,Benign,15,Low,55,Spamhaus,2026-05-14 01:57:42,Active
+103.5.60.134,IP Address,Data Exfiltration,50,Medium,66,MISP Feed,2026-05-14 01:15:24,False Positive
+b500b57023b41b75744301c908765903ca3665a16133e768b14ec09b65fec5f1,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-05-13 23:34:17,Investigating
+103.41.173.116,IP Address,Botnet C2,50,Medium,66,AbuseIPDB,2026-05-13 19:36:27,Active
+fb95f57844f36a44f97133429652dec497cefe5b88becbb62ab5f6b673035942,File Hash,Malware,30,Low,72,Internal Honeypot,2026-05-13 17:01:05,False Positive
+s1awp-0.net,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-05-13 15:51:48,Active
+mqkdz1qjfxk-.com,URL/Domain,Malware,33,Low,62,AlienVault OTX,2026-05-13 13:08:56,Resolved
+62.34.50.210,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-12 21:05:31,Investigating
+invoice-1r32jv.ml,URL/Domain,Malware,88,Critical,76,Manual Analyst Report,2026-05-12 13:14:58,Active
+su0lmi.edu,URL/Domain,Benign,0,Low,62,PhishTank,2026-05-12 10:43:22,Mitigated
+d15fb116bb14efdf1d973f2b3ce2cdde3fe7c14a4468e1f2af79fd60e55f3849,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-05-12 04:41:23,Resolved
+58.105.194.48,IP Address,Benign,15,Low,55,Spamhaus,2026-05-12 03:05:24,Mitigated
+91.49.51.186,IP Address,Data Exfiltration,50,Medium,66,Internal Honeypot,2026-05-11 14:57:47,Investigating
+tub-cijv--zyn.io,URL/Domain,Malware,30,Low,62,AbuseIPDB,2026-05-11 14:55:23,Investigating
+uyroq4h.gov,URL/Domain,Benign,0,Low,62,VirusTotal,2026-05-11 05:55:33,Resolved
+91.61.98.81,IP Address,Data Exfiltration,50,Medium,66,AbuseIPDB,2026-05-10 22:15:06,Investigating
+aaeced252b48327e07f19c1082cdf53462988462597a800e20c90142fa74449c,File Hash,Spyware,30,Low,72,VirusTotal,2026-05-10 21:34:26,Active
+139.68.178.31,IP Address,Benign,15,Low,55,VirusTotal,2026-05-10 14:40:55,False Positive
+1910f770b90da9c49d925524031e83ac3b302f5243f0e7455b44dae951d2fe41,File Hash,Malware,30,Low,72,PhishTank,2026-05-10 11:04:45,Mitigated
+0dn0yb-y4awt.edu,URL/Domain,Benign,3,Low,69,Spamhaus,2026-05-10 09:06:31,False Positive
+bd4a76f796471c7a168ee0c641036d4524265ce310af2997ca3d2ad6af84c3ae,File Hash,Spyware,30,Low,72,Manual Analyst Report,2026-05-10 03:41:08,False Positive
+36896b66c4dcff0227ab941ce23f5057f15f9e2af4a9b66e92f2096c0fddad2f,File Hash,Ransomware,30,Low,72,PhishTank,2026-05-09 14:49:41,Resolved
+131.86.14.154,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-09 09:24:28,Investigating
+w10hoaydt7.com,URL/Domain,Data Exfiltration,33,Low,62,PhishTank,2026-05-09 08:25:29,Investigating
+7d8x8o7kxkgko.edu,URL/Domain,Benign,0,Low,62,VirusTotal,2026-05-09 06:47:43,Resolved
+5f2micmbp5.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-05-09 05:34:01,Mitigated
+yvl55x7rf1f1.edu,URL/Domain,Benign,3,Low,69,VirusTotal,2026-05-08 18:17:49,Mitigated
+qc529s8.net,URL/Domain,Benign,18,Low,55,VirusTotal,2026-05-08 16:20:04,Mitigated
+di7n9u47yul3.co,URL/Domain,Phishing,33,Low,62,PhishTank,2026-05-08 16:05:36,Mitigated
+45.161.158.132,IP Address,Botnet C2,50,Medium,66,Spamhaus,2026-05-08 11:45:24,Mitigated
+od5q0tvjcu-0ar.edu,URL/Domain,Benign,3,Low,69,Manual Analyst Report,2026-05-08 10:47:42,Mitigated
+949e316e73dfcc17633b0b3c38bfcadf02d3a3a215c117549de34b3a997fe518,File Hash,Malware,30,Low,72,Spamhaus,2026-05-08 05:34:28,Investigating
+2mnut-t1wfa6zi.com,URL/Domain,Malware,33,Low,62,PhishTank,2026-05-08 03:03:30,Active
+account-wzl3h73uaanyg.gq,URL/Domain,Phishing,88,Critical,76,VirusTotal,2026-05-07 19:25:21,Investigating
+45.254.200.41,IP Address,DDoS,50,Medium,66,MISP Feed,2026-05-07 18:52:59,Investigating
+132.52.105.139,IP Address,Benign,15,Low,55,PhishTank,2026-05-07 17:23:49,Mitigated
+65.99.58.47,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-07 12:11:55,False Positive
+pf727xe-.com,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-05-07 10:35:18,Investigating
+57.1.174.91,IP Address,Benign,15,Low,55,MISP Feed,2026-05-07 09:59:16,Mitigated
+verify-zxoi65fdhjk1ey.loan,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-05-07 04:34:29,Active
+rnlak-na6367qt.org,URL/Domain,Malware,33,Low,62,MISP Feed,2026-05-07 00:39:22,Investigating
+33.60.200.216,IP Address,Benign,15,Low,55,MISP Feed,2026-05-06 23:12:06,Mitigated
+wallet-v2ashjdcl6k.cf,URL/Domain,Phishing,88,Critical,76,Manual Analyst Report,2026-05-06 19:35:50,False Positive
+200.71.150.118,IP Address,Benign,15,Low,55,VirusTotal,2026-05-06 13:39:42,Investigating
+aviqk.gov,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-05-06 13:25:16,False Positive
+55.161.11.198,IP Address,Benign,15,Low,55,MISP Feed,2026-05-06 10:22:40,False Positive
+verify-tklx6ohmi.xyz,URL/Domain,Malware,88,Critical,76,PhishTank,2026-05-06 08:09:24,Mitigated
+46243be784e68b45710ae8d3cab6117c6b91d14df27505b0223e53e544000fdc,File Hash,Cryptomining,30,Low,72,AlienVault OTX,2026-05-05 18:47:28,Investigating
+update-88bc1hy2uy.xyz,URL/Domain,Malware,88,Critical,76,VirusTotal,2026-05-05 17:57:33,Investigating
+038a67477984a39c94085e7dfffa91e191d8aacc7c6a2ebdaf765f284b653b68,File Hash,Malware,30,Low,72,AlienVault OTX,2026-05-05 14:53:16,False Positive
+d1b636a8abaf6a82a24ccfb8b1fdbefb90de8bb1e63b00b2ffc516b00465a1fd,File Hash,Spyware,30,Low,72,Spamhaus,2026-05-05 10:56:51,Active
+45.15.207.219,IP Address,DDoS,50,Medium,66,Manual Analyst Report,2026-05-05 08:57:48,Investigating
+147.114.10.243,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-05 05:25:56,False Positive
+c9rj6gd23h.com,URL/Domain,Phishing,33,Low,62,AbuseIPDB,2026-05-05 03:27:52,False Positive
+45.13.95.128,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-05-05 00:42:18,Mitigated
+secure-poig8f1cb.loan,URL/Domain,Phishing,88,Critical,76,AlienVault OTX,2026-05-04 21:45:11,False Positive
+verify-72hn5f62d3.work,URL/Domain,Malware,88,Critical,76,AlienVault OTX,2026-05-04 12:09:29,Mitigated
+907a7fd3c8c582953422b9cc876f4bfbde80020852c0c80001d4bdee08b33a40,File Hash,Malware,30,Low,72,Spamhaus,2026-05-04 11:12:21,Investigating
+118.73.135.36,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-04 09:22:09,Mitigated
+3kew9owamrs1tx.io,URL/Domain,Malware,33,Low,62,MISP Feed,2026-05-04 09:17:41,Investigating
+92.14.180.243,IP Address,Benign,15,Low,55,VirusTotal,2026-05-03 22:08:21,Resolved
+6.25.170.63,IP Address,Benign,15,Low,55,VirusTotal,2026-05-03 21:31:17,Active
+190.153.172.130,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-05-03 18:04:39,Resolved
+tmitdysl.org,URL/Domain,Benign,18,Low,55,VirusTotal,2026-05-03 17:30:15,Resolved
+03df5a6f9e3324b0043cdf0270f40421c2e02ebab5c916169f05ddcbb984cc50,File Hash,Malware,30,Low,72,VirusTotal,2026-05-03 12:53:46,Mitigated
+28.170.49.211,IP Address,Benign,15,Low,55,MISP Feed,2026-05-03 11:27:47,Mitigated
+login-f-boscr.click,URL/Domain,Malware,85,Critical,76,Manual Analyst Report,2026-05-03 10:57:32,False Positive
+98.40.39.246,IP Address,Benign,15,Low,55,Internal Honeypot,2026-05-03 10:39:39,False Positive
+hwfnslk.edu,URL/Domain,Benign,0,Low,62,MISP Feed,2026-05-03 07:40:08,Investigating
+87.179.3.47,IP Address,Benign,15,Low,55,VirusTotal,2026-05-03 05:03:34,Resolved
+5.105.125.56,IP Address,Data Exfiltration,50,Medium,66,Internal Honeypot,2026-05-02 21:54:27,False Positive
+183.79.64.37,IP Address,Benign,15,Low,55,Spamhaus,2026-05-02 19:15:29,Active
+0e8d83c33d8a48e3e85ac5fcf869e58a59006fc9283fdcbead3b9c993b299d5a,File Hash,Malware,30,Low,72,AlienVault OTX,2026-05-02 18:24:36,Investigating
+namsqett69uah.org,URL/Domain,Malware,33,Low,62,Spamhaus,2026-05-02 06:33:54,Active
+181.129.140.161,IP Address,Benign,15,Low,55,AlienVault OTX,2026-05-02 03:53:05,Resolved
+38.67.172.22,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-05-02 03:11:50,False Positive
+-v0wsskct-qd.co,URL/Domain,Phishing,30,Low,62,VirusTotal,2026-05-02 03:06:48,Mitigated
+95.190.227.196,IP Address,Benign,15,Low,55,AbuseIPDB,2026-05-01 23:58:46,False Positive
+invoice-v8lmgont6tu7.gq,URL/Domain,Phishing,88,Critical,76,Internal Honeypot,2026-05-01 23:21:50,Mitigated
+161.78.14.159,IP Address,Benign,15,Low,55,AbuseIPDB,2026-05-01 15:04:11,Active
+invoice-jkv-cbf.gq,URL/Domain,Phishing,100,Critical,83,Internal Honeypot,2026-05-01 13:49:31,False Positive
+-f9h8k.edu,URL/Domain,Benign,0,Low,62,AbuseIPDB,2026-05-01 11:56:13,False Positive
+invoice-c1uqbf.xyz,URL/Domain,Data Exfiltration,88,Critical,76,MISP Feed,2026-05-01 03:31:40,Investigating
+fetz470.edu,URL/Domain,Benign,0,Low,62,Spamhaus,2026-05-01 02:18:27,Investigating
+invoice-dl2ia.gq,URL/Domain,Malware,88,Critical,76,PhishTank,2026-05-01 01:59:55,Active
+g59-y7ycg.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-05-01 01:32:13,Active
+3vfum10n229b.org,URL/Domain,Data Exfiltration,33,Low,62,VirusTotal,2026-05-01 00:19:11,Mitigated
+149.27.155.118,IP Address,Benign,15,Low,55,VirusTotal,2026-04-30 23:59:03,Resolved
+520792eab006a8bb8fcf9cbd330ff3e39f7a5fb936fab1064c3a8191a9d88c02,File Hash,Ransomware,30,Low,72,AlienVault OTX,2026-04-30 15:06:03,Active
+s80qma.edu,URL/Domain,Benign,0,Low,62,AlienVault OTX,2026-04-30 09:58:03,Active
+185.189.67.248,IP Address,Botnet C2,50,Medium,66,AlienVault OTX,2026-04-29 22:27:43,Mitigated
+39cb18aba1a7ef43c9aa859fe1bfac938f48dc7d4fcdb7528fb2c091a7685c67,File Hash,Ransomware,30,Low,72,VirusTotal,2026-04-29 19:19:38,Active
+nmlwbf.net,URL/Domain,Benign,18,Low,55,MISP Feed,2026-04-29 16:19:42,Mitigated
+42.145.90.248,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-29 15:52:43,Active
+secure-y0958858.cf,URL/Domain,Data Exfiltration,73,High,69,AbuseIPDB,2026-04-29 13:38:02,False Positive
+5.4.180.249,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-04-29 04:57:22,Resolved
+3f1a741b36680f4f31aa6e43a7ae1c08ece50cec5075c3ed2dbae5d1d5a31972,File Hash,Malware,30,Low,72,Spamhaus,2026-04-28 17:47:26,Active
+ohuogp0myo.com,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-04-28 11:21:21,Active
+70.128.194.90,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-28 10:24:44,Mitigated
+verify-nnsm0l0jbsq.tk,URL/Domain,Phishing,88,Critical,76,PhishTank,2026-04-28 05:25:39,Resolved
+74.80.37.114,IP Address,Benign,15,Low,55,PhishTank,2026-04-27 18:06:03,Resolved
+45.95.243.36,IP Address,Data Exfiltration,50,Medium,66,Manual Analyst Report,2026-04-27 17:13:58,Mitigated
+121.176.224.60,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-27 16:38:40,False Positive
+170.18.4.63,IP Address,Benign,15,Low,55,VirusTotal,2026-04-27 15:17:43,Investigating
+6a3950d7ec82d950d67154c508e909e63feb91badcc2a24d88e6b0fd24ad32aa,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-04-27 15:00:38,Mitigated
+gy1m-wxe2k.co,URL/Domain,Malware,33,Low,62,MISP Feed,2026-04-27 14:04:19,Mitigated
+148.132.66.179,IP Address,Benign,15,Low,55,PhishTank,2026-04-27 07:50:57,Mitigated
+6b3e2db84d89cf7e866b12798b98beba6e1072c6accf112767fbbb5bb1d16c81,File Hash,Malware,30,Low,72,AbuseIPDB,2026-04-26 16:43:43,Mitigated
+89.110.68.155,IP Address,DDoS,50,Medium,66,Internal Honeypot,2026-04-26 15:55:10,Mitigated
+verify-5h-598-449k.gq,URL/Domain,Phishing,100,Critical,83,Manual Analyst Report,2026-04-26 15:14:15,False Positive
+invoice-djrfco70x3fg.cf,URL/Domain,Phishing,88,Critical,76,AbuseIPDB,2026-04-26 08:19:08,Active
+194.95.11.113,IP Address,DDoS,50,Medium,66,Manual Analyst Report,2026-04-26 08:01:21,Resolved
+update-qv3cgd8lkb5.tk,URL/Domain,Data Exfiltration,88,Critical,76,Manual Analyst Report,2026-04-26 07:53:03,Mitigated
+a05b41dcc071762a588dc96fc829387dfd54d08a1066d5b30ca8614a3b9e0dff,File Hash,Malware,30,Low,72,VirusTotal,2026-04-26 07:14:07,Resolved
+10.192.130.198,IP Address,Benign,0,Low,66,AlienVault OTX,2026-04-26 03:14:47,Active
+0t2rjmgilbr.co,URL/Domain,Malware,33,Low,62,Internal Honeypot,2026-04-25 20:32:21,Investigating
+103.167.144.210,IP Address,Data Exfiltration,50,Medium,66,Spamhaus,2026-04-25 14:39:11,False Positive
+rx36zhbp.org,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-04-25 12:45:02,Investigating
+103.159.185.36,IP Address,Botnet C2,50,Medium,66,Manual Analyst Report,2026-04-25 09:56:47,Mitigated
+160.234.32.29,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-25 09:28:32,Active
+40.25.201.249,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-25 08:02:54,False Positive
+8a78cc1fa11be5ca83590ba751ad66c0963ab0a05f42c66e5ff6e43f2e5e4433,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-04-25 06:57:44,Active
+169.245.232.161,IP Address,Benign,15,Low,55,MISP Feed,2026-04-25 05:02:07,Active
+c8f5da5969f36f2802809a6be637b5293192994e411aa620d89f0a8deab9ba0e,File Hash,Malware,30,Low,72,PhishTank,2026-04-24 22:23:22,Resolved
+wallet-dohcl62uc9odqq.ml,URL/Domain,Phishing,88,Critical,76,AlienVault OTX,2026-04-24 20:26:51,Mitigated
+m5l8nwg.edu,URL/Domain,Benign,0,Low,62,VirusTotal,2026-04-24 15:22:11,False Positive
+185.74.109.82,IP Address,DDoS,50,Medium,66,AlienVault OTX,2026-04-24 15:08:49,Active
+184.216.193.19,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-24 11:32:39,False Positive
+vb4cj.com,URL/Domain,Benign,18,Low,55,Spamhaus,2026-04-24 09:52:14,Investigating
+invoice-x2nlu3o3xv.gq,URL/Domain,Data Exfiltration,88,Critical,76,MISP Feed,2026-04-24 04:09:01,Investigating
+55.76.95.41,IP Address,Benign,15,Low,55,PhishTank,2026-04-24 00:41:04,Investigating
+update-ak1vrjnvg.ml,URL/Domain,Phishing,88,Critical,76,PhishTank,2026-04-23 19:21:42,Active
+71.95.141.129,IP Address,Benign,15,Low,55,AlienVault OTX,2026-04-23 14:28:39,Investigating
+194.136.248.122,IP Address,Data Exfiltration,50,Medium,66,PhishTank,2026-04-23 13:21:24,Mitigated
+504b5f577a355f02675c657e9b176ebb0d8d01c17a36796eab39fcd7b91fb535,File Hash,Malware,30,Low,72,Spamhaus,2026-04-23 10:20:26,Mitigated
+8f7c6ec63a99035359ead23b48fb3ca5c4a86fd26d03fb858c78bf654795aa21,File Hash,Malware,30,Low,72,MISP Feed,2026-04-23 01:50:35,Mitigated
+f9s9ww.org,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-04-22 21:54:37,Resolved
+4o20o-i8p0.gov,URL/Domain,Benign,0,Low,62,VirusTotal,2026-04-22 19:30:58,Mitigated
+1a58ad4637ce0d149fc764fe49bef585edbcd45e9da4b61b68db27bab15c668b,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-04-22 18:27:32,Investigating
+c4dcc6d81f381c8889b68954cec81b25802603face81027f8d046f2d40d7957d,File Hash,Ransomware,30,Low,72,VirusTotal,2026-04-22 13:11:02,Investigating
+b6394548e6d927a537e22b02eb019f9978835737d45b1d6ba9f637bd96da6c64,File Hash,Malware,30,Low,72,Spamhaus,2026-04-22 07:17:18,False Positive
+14.170.120.121,IP Address,Benign,15,Low,55,PhishTank,2026-04-22 07:12:42,Active
+eef584361cd1802158518505e1be369a01aeeeb906029c1e184dafb398e4b70c,File Hash,Malware,30,Low,72,AlienVault OTX,2026-04-22 05:02:30,Mitigated
+85.211.107.179,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-22 02:52:27,Active
+114.152.219.79,IP Address,Benign,15,Low,55,AlienVault OTX,2026-04-22 01:22:47,Investigating
+80.97.21.149,IP Address,Benign,15,Low,55,PhishTank,2026-04-22 00:30:57,Resolved
+wolytsila-z-cl.co,URL/Domain,Data Exfiltration,30,Low,62,PhishTank,2026-04-21 20:57:00,False Positive
+u0xgj1qq.io,URL/Domain,Benign,18,Low,55,PhishTank,2026-04-21 18:57:35,Resolved
+login-nb0irr3ugoo.tk,URL/Domain,Phishing,88,Critical,76,AbuseIPDB,2026-04-21 18:30:47,False Positive
+26.254.98.155,IP Address,Benign,15,Low,55,VirusTotal,2026-04-21 16:42:30,Resolved
+73.125.87.19,IP Address,Benign,15,Low,55,MISP Feed,2026-04-21 16:39:34,False Positive
+update-b5crry.xyz,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-04-21 15:00:50,Resolved
+63f71defd4c0a1d6bd432c130db7f372e033be5e84ba79f1070c97ecdc075d4e,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-04-21 10:36:51,Resolved
+183.183.61.199,IP Address,Benign,15,Low,55,AbuseIPDB,2026-04-21 02:40:34,False Positive
+t44qi.org,URL/Domain,Benign,18,Low,55,PhishTank,2026-04-21 01:28:58,Resolved
+qdxoean5f3dx90.edu,URL/Domain,Benign,3,Low,69,AlienVault OTX,2026-04-20 19:18:53,False Positive
+a05g1x3j1l.gov,URL/Domain,Benign,0,Low,62,MISP Feed,2026-04-20 09:23:54,Resolved
+ba269ce94c30c2dbb9576b2b9f8fb7cf961c61e316902aed8fb25507472cce3e,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-04-20 07:21:46,False Positive
+update-dkyafj41feqox.cf,URL/Domain,Malware,88,Critical,76,Spamhaus,2026-04-20 05:06:07,False Positive
+199.43.26.40,IP Address,Benign,15,Low,55,VirusTotal,2026-04-20 03:10:51,Active
+108.210.96.163,IP Address,Benign,15,Low,55,AlienVault OTX,2026-04-19 20:49:48,Investigating
+9ke7j2sq8x3a6y.com,URL/Domain,Phishing,33,Low,62,PhishTank,2026-04-19 20:17:55,Mitigated
+-t9h9.com,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-04-19 09:15:54,False Positive
+e2c2defdc37d916c6e655f76403d4c1f8fa04726bd3bef41c1d7430d789eedce,File Hash,Spyware,30,Low,72,Spamhaus,2026-04-18 22:26:47,Resolved
+49.207.231.55,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-18 19:25:27,False Positive
+f59wfn7xtsu23b.net,URL/Domain,Phishing,33,Low,62,VirusTotal,2026-04-18 16:11:25,False Positive
+login-ky9yckv-jkjld.work,URL/Domain,Malware,100,Critical,83,MISP Feed,2026-04-17 22:24:49,Active
+6c5d115e0665904022c800ffe6d34f536d488b395e332bba622af6576c462caa,File Hash,Cryptomining,30,Low,72,Manual Analyst Report,2026-04-17 20:16:55,Mitigated
+vhs1k3aq6.co,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-04-17 18:07:36,False Positive
+ll7jlxhkb5n.org,URL/Domain,Benign,18,Low,55,Spamhaus,2026-04-17 15:24:20,Mitigated
+210.249.129.154,IP Address,Benign,15,Low,55,AlienVault OTX,2026-04-17 14:35:39,Active
+tv4jpd8.gov,URL/Domain,Benign,0,Low,62,MISP Feed,2026-04-17 09:12:01,Active
+32631ea99bc74a1027025f8fed576e9a09aead38ce22ffb5170b6a61466d751d,File Hash,Spyware,30,Low,72,AbuseIPDB,2026-04-17 06:13:35,Active
+secure-poevb9.xyz,URL/Domain,Malware,88,Critical,76,AbuseIPDB,2026-04-17 02:50:57,Investigating
+41.144.154.7,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-16 19:59:18,Active
+9896d5bb0304b3568280fab6e871fb259536d9c0e1e4b806af6807764d1774bd,File Hash,Malware,30,Low,72,AbuseIPDB,2026-04-16 13:16:18,Resolved
+91.243.37.117,IP Address,DDoS,50,Medium,66,Spamhaus,2026-04-16 08:01:59,Investigating
+0740a1d70de7ad8d4e8c74886cca193f3452b02c6aeffd87db501413efa5bee0,File Hash,Malware,30,Low,72,PhishTank,2026-04-16 06:57:34,Mitigated
+74.116.46.112,IP Address,Benign,15,Low,55,AbuseIPDB,2026-04-16 01:20:00,Resolved
+4f4090e57f169535f7db76b4af9554a7bd5735969aac5d8bdc4de060b98574f1,File Hash,Malware,30,Low,72,AbuseIPDB,2026-04-15 21:34:53,Resolved
+66yhrdu390e4.com,URL/Domain,Data Exfiltration,33,Low,62,Spamhaus,2026-04-15 20:28:57,Active
+login-k71ehjimm8.ml,URL/Domain,Malware,88,Critical,76,Spamhaus,2026-04-15 20:05:20,Active
+12bf1ab21d8913a28f97f3a392cd11dc79b7d1d9e629b064a1a22d09a7f52712,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-04-15 15:57:01,Active
+3fqukhfh.gov,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-04-15 15:46:42,Active
+fgfb0g.io,URL/Domain,Benign,18,Low,55,AbuseIPDB,2026-04-15 12:49:24,False Positive
+173.110.226.179,IP Address,Benign,15,Low,55,AlienVault OTX,2026-04-15 09:57:19,Active
+148.196.216.48,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-15 09:25:38,Investigating
+v3cg7t.com,URL/Domain,Benign,18,Low,55,MISP Feed,2026-04-14 21:21:09,Mitigated
+klfyp5j.net,URL/Domain,Benign,18,Low,55,Manual Analyst Report,2026-04-14 19:44:44,Resolved
+login-z9xfzaq8.gq,URL/Domain,Malware,88,Critical,76,Spamhaus,2026-04-14 15:28:04,Active
+146.91.212.192,IP Address,Benign,15,Low,55,AbuseIPDB,2026-04-14 08:00:02,Mitigated
+4db4a55d961b360c9de853ea56f92709c8cc4e3583c80f0de4ea07fc2789cd58,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-04-14 07:56:04,Active
+sbtn76mzsdp5yh.net,URL/Domain,Malware,33,Low,62,Manual Analyst Report,2026-04-14 07:22:06,Active
+65.89.179.119,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-14 02:56:17,Resolved
+bwewpgvic.org,URL/Domain,Benign,18,Low,55,PhishTank,2026-04-13 22:37:04,Resolved
+116.166.66.55,IP Address,Benign,15,Low,55,AlienVault OTX,2026-04-13 18:41:26,Mitigated
+ac12dd1cae87b9e71982ce9fb6c6de078976f72d51205f0112c1cc8f649a5ceb,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-04-13 14:59:56,Resolved
+63.255.172.66,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-13 11:07:50,Resolved
+4af90cf9fe9d098caba9ec043d6f658d1e79df68863efb72a5f76f692d0f5c38,File Hash,Malware,30,Low,72,MISP Feed,2026-04-13 01:55:31,Investigating
+login-4r-1f1xl11f.work,URL/Domain,Data Exfiltration,100,Critical,83,Internal Honeypot,2026-04-12 23:20:48,Resolved
+msmzlr7571g.gov,URL/Domain,Benign,0,Low,62,AlienVault OTX,2026-04-12 19:55:44,Active
+update-tvgxq.gq,URL/Domain,Phishing,73,High,69,AlienVault OTX,2026-04-12 18:58:55,Resolved
+77e1c17c78b1a2f1a2eb07548cb404f391e834d7e64df04c016643e5aabfa904,File Hash,Spyware,30,Low,72,PhishTank,2026-04-12 18:13:54,Resolved
+212.194.84.14,IP Address,Benign,15,Low,55,PhishTank,2026-04-12 13:32:50,Investigating
+sjupdri65nf4e.net,URL/Domain,Malware,33,Low,62,Spamhaus,2026-04-12 10:27:17,Mitigated
+e2a392db44657095244f409b4d9d6fe71ac4db15337e20c171f8ae53fdf80779,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-04-12 09:07:42,Active
+122.218.107.89,IP Address,Benign,15,Low,55,AbuseIPDB,2026-04-11 18:00:10,False Positive
+exzgvtuik1.edu,URL/Domain,Benign,0,Low,62,Manual Analyst Report,2026-04-11 17:26:27,Investigating
+e0chy-km1qw65x.gov,URL/Domain,Benign,3,Low,69,AlienVault OTX,2026-04-11 14:57:47,Resolved
+206.168.225.86,IP Address,Benign,15,Low,55,Spamhaus,2026-04-11 07:21:05,Investigating
+login-dnan3ym5gvn7.gq,URL/Domain,Data Exfiltration,88,Critical,76,Manual Analyst Report,2026-04-10 23:23:09,False Positive
+6a07e75a26fbee98830c8767b6f67903ebba041ebe5168284ba79e84fb96788a,File Hash,Malware,30,Low,72,Internal Honeypot,2026-04-10 23:07:23,Active
+njx8kp8192ca3.edu,URL/Domain,Benign,3,Low,69,MISP Feed,2026-04-10 22:53:54,Active
+account-z53s2klz.ml,URL/Domain,Malware,88,Critical,76,Manual Analyst Report,2026-04-10 22:43:14,Active
+secure-guu9mn8z1hong.xyz,URL/Domain,Phishing,88,Critical,76,Spamhaus,2026-04-10 17:28:43,Active
+zpchpz5.org,URL/Domain,Benign,18,Low,55,VirusTotal,2026-04-10 15:19:33,Active
+58.33.175.97,IP Address,Benign,15,Low,55,Spamhaus,2026-04-10 05:36:52,False Positive
+be55c3989c068c381bea62635950e525bdd8f7e47bb1ed477c1614610a6f9439,File Hash,Cryptomining,30,Low,72,AbuseIPDB,2026-04-10 05:19:51,Active
+5.123.124.55,IP Address,Data Exfiltration,50,Medium,66,VirusTotal,2026-04-10 01:44:11,Active
+204.41.178.110,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-10 01:20:07,Resolved
+mio6ijofgzsgpo.org,URL/Domain,Benign,18,Low,55,VirusTotal,2026-04-09 18:01:47,Mitigated
+4c968884b7dec5b433b1f77e2994dabd6024daae033fb0ae63c93dd6ad80d5ee,File Hash,Spyware,30,Low,72,Manual Analyst Report,2026-04-09 15:45:56,Resolved
+invoice-my4gpy-w-.gq,URL/Domain,Malware,100,Critical,83,AlienVault OTX,2026-04-09 14:34:54,Mitigated
+hl31xl9k81.io,URL/Domain,Benign,18,Low,55,MISP Feed,2026-04-09 13:03:50,Mitigated
+185.93.137.28,IP Address,DDoS,50,Medium,66,Manual Analyst Report,2026-04-09 12:59:46,Investigating
+9vh0w1dstwg-6.net,URL/Domain,Malware,33,Low,62,VirusTotal,2026-04-09 11:26:12,Investigating
+185.191.30.159,IP Address,Botnet C2,50,Medium,66,Manual Analyst Report,2026-04-09 11:13:49,Active
+194443512c52a3d65d9e326ea875635e9cd9ea2bdb4a5727fe188cefd1321296,File Hash,Ransomware,30,Low,72,VirusTotal,2026-04-09 08:40:03,Investigating
+u4ofqsfw9.edu,URL/Domain,Benign,0,Low,62,Internal Honeypot,2026-04-09 05:25:52,Investigating
+hsbp1zuyzy.io,URL/Domain,Benign,18,Low,55,Internal Honeypot,2026-04-08 22:40:44,Resolved
+jxzosi366fzx.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-04-08 20:17:43,False Positive
+36.240.19.16,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-08 18:19:18,Mitigated
+login-bxtlnv5moi.top,URL/Domain,Malware,88,Critical,76,AlienVault OTX,2026-04-08 16:43:53,False Positive
+verify-9ec6g.top,URL/Domain,Malware,88,Critical,76,Manual Analyst Report,2026-04-08 08:17:42,Mitigated
+53c2f16444200e4fe7b220f5ef3db7ee13e30737c8e064fbdf99700fa5a95c0c,File Hash,Malware,30,Low,72,VirusTotal,2026-04-08 05:25:44,Investigating
+62.80.140.226,IP Address,Benign,15,Low,55,MISP Feed,2026-04-08 02:33:45,Investigating
+204.20.183.54,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-08 01:15:00,Mitigated
+9.82.101.243,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-07 19:18:55,Active
+138.100.186.111,IP Address,Benign,15,Low,55,AbuseIPDB,2026-04-07 16:58:14,False Positive
+89.58.134.180,IP Address,DDoS,50,Medium,66,Internal Honeypot,2026-04-07 13:22:03,Investigating
+f7524de9dfa609c58911a7d64e63e83873f3bff73c508a9053c0547dba725e14,File Hash,Ransomware,30,Low,72,AlienVault OTX,2026-04-07 08:48:01,Mitigated
+72.163.185.162,IP Address,Benign,15,Low,55,AbuseIPDB,2026-04-07 05:56:29,Mitigated
+c258b97277404e9f69ed49c9dac929bb8d3c7a8111a56f5d8ac426afaf8d7379,File Hash,Malware,30,Low,72,AbuseIPDB,2026-04-07 04:29:43,False Positive
+176.242.254.46,IP Address,Benign,15,Low,55,VirusTotal,2026-04-07 03:25:22,Active
+login-vx610viwq9m.top,URL/Domain,Malware,88,Critical,76,Manual Analyst Report,2026-04-07 01:54:19,Mitigated
+219.37.114.100,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-04-07 01:35:18,Mitigated
+104.218.167.23,IP Address,Benign,15,Low,55,Spamhaus,2026-04-07 01:31:11,Investigating
+c28c6efeb7ed2c16ccf9a37ed183d8451f5a73d2e0313e8a8a5969b9ddee0da7,File Hash,Ransomware,30,Low,72,Manual Analyst Report,2026-04-07 00:49:40,False Positive
+216.184.213.40,IP Address,Benign,15,Low,55,MISP Feed,2026-04-07 00:25:18,Investigating
+77.231.214.135,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-06 19:32:47,Investigating
+uf0yozv.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-04-06 12:51:36,Mitigated
+wallet-l095z.top,URL/Domain,Malware,73,High,69,AlienVault OTX,2026-04-06 12:47:03,Active
+103.137.135.79,IP Address,Botnet C2,50,Medium,66,Spamhaus,2026-04-05 20:11:52,Active
+c74602ac641b57d736850cf40378edc92f875e35b09717605948adb7b2358d4b,File Hash,Spyware,30,Low,72,Manual Analyst Report,2026-04-05 20:11:21,False Positive
+57e56e50caf9258753b5e261d978a92284f0089d4cd3e3e95c3446b2d4c283e1,File Hash,Malware,30,Low,72,VirusTotal,2026-04-05 14:47:27,Mitigated
+l68uhw9.io,URL/Domain,Benign,18,Low,55,Spamhaus,2026-04-05 09:33:14,Mitigated
+49.198.216.82,IP Address,Benign,15,Low,55,PhishTank,2026-04-05 00:23:38,False Positive
+8-kqgu.gov,URL/Domain,Benign,0,Low,62,Spamhaus,2026-04-05 00:09:10,Mitigated
+194.109.113.166,IP Address,Data Exfiltration,50,Medium,66,Internal Honeypot,2026-04-04 21:27:57,Mitigated
+-l2b5-wvfxel.net,URL/Domain,Benign,2,Medium,69,MISP Feed,2026-04-04 14:39:41,Investigating
+142.252.5.247,IP Address,Benign,15,Low,55,Spamhaus,2026-04-04 10:28:19,Investigating
+89.142.179.165,IP Address,Botnet C2,50,Medium,66,Spamhaus,2026-04-04 09:28:11,Mitigated
+e4b0fe38c552f03345bdce3529da7e07d52a4ab8d43976e3f120a9e40b74d8a1,File Hash,Malware,30,Low,72,Internal Honeypot,2026-04-04 06:49:50,Resolved
+14.222.91.131,IP Address,Benign,15,Low,55,PhishTank,2026-04-04 03:21:52,Investigating
+invoice-7oodg.work,URL/Domain,Data Exfiltration,88,Critical,76,AbuseIPDB,2026-04-03 23:59:15,Active
+86.100.168.65,IP Address,Benign,15,Low,55,MISP Feed,2026-04-03 18:59:59,Investigating
+45.121.104.84,IP Address,DDoS,50,Medium,66,PhishTank,2026-04-03 13:50:52,Active
+111.202.254.8,IP Address,Benign,15,Low,55,Spamhaus,2026-04-03 13:27:30,Investigating
+161.47.118.227,IP Address,Benign,15,Low,55,Internal Honeypot,2026-04-03 05:10:24,Investigating
+4cut92n0.com,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-04-03 00:19:06,False Positive
+s31f4t.net,URL/Domain,Benign,18,Low,55,VirusTotal,2026-04-02 18:03:18,Investigating
+invoice-wnrek8pk3y.loan,URL/Domain,Malware,88,Critical,76,Internal Honeypot,2026-04-02 17:11:09,Active
+12dba51c6e2f5693e9fed44f41d090bbbcadba4c25861e8826b961cf60d0cc58,File Hash,Malware,30,Low,72,VirusTotal,2026-04-02 15:07:50,Investigating
+89.3.33.54,IP Address,Botnet C2,50,Medium,66,Internal Honeypot,2026-04-02 13:32:52,Active
+zuib5sq0zyc-mv.gov,URL/Domain,Benign,3,Low,69,Internal Honeypot,2026-04-02 09:31:38,Resolved
+179.239.49.117,IP Address,Benign,15,Low,55,MISP Feed,2026-04-02 05:31:48,Resolved
+91.167.133.143,IP Address,Botnet C2,50,Medium,66,MISP Feed,2026-04-02 04:11:49,Investigating
+1330b6e4f8cdff26debad2dfd83145f32e2c1e53fdaedb3c081b7ea59544b8a1,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-04-02 01:23:16,Active
+invoice-t-aqxpdh3t.loan,URL/Domain,Phishing,100,Critical,83,MISP Feed,2026-04-02 00:43:04,Mitigated
+verify--od4k7yjpc-hmb.click,URL/Domain,Malware,100,Critical,83,Spamhaus,2026-04-01 21:34:09,Resolved
+31.113.65.220,IP Address,Benign,15,Low,55,VirusTotal,2026-04-01 20:44:36,Mitigated
+account-gor5nknwssa.work,URL/Domain,Malware,88,Critical,76,MISP Feed,2026-04-01 20:18:17,Investigating
+d5020d20674236574d74cdf005f3813444644ccad85e69ab0d8f93c20c2c05df,File Hash,Cryptomining,30,Low,72,Manual Analyst Report,2026-04-01 15:49:05,Active
+118.207.249.78,IP Address,Benign,15,Low,55,PhishTank,2026-04-01 14:36:40,Mitigated
+c1648c460e000e2eec3b7ec6771e7d6cdba74e7e9505d44749bdae969fe289b2,File Hash,Cryptomining,30,Low,72,Internal Honeypot,2026-04-01 13:33:43,Active
+s2zts3k1.org,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-04-01 10:10:13,Investigating
+fb08dd8ad1304ac89c2d5a06020c6db69770b7725e40393d0eec3ce4533d6a3f,File Hash,Malware,30,Low,72,Manual Analyst Report,2026-04-01 00:22:21,Investigating
+91.146.93.250,IP Address,DDoS,50,Medium,66,VirusTotal,2026-03-31 23:24:16,Investigating
+201.150.227.36,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-03-31 17:35:56,False Positive
+update-4yac8mxau7m.tk,URL/Domain,Data Exfiltration,88,Critical,76,Internal Honeypot,2026-03-31 16:27:19,Mitigated
+91.163.253.109,IP Address,Botnet C2,50,Medium,66,Manual Analyst Report,2026-03-31 13:55:17,False Positive
+krf7yinzdoz.net,URL/Domain,Phishing,33,Low,62,AbuseIPDB,2026-03-31 11:56:15,Resolved
+145.35.153.23,IP Address,Benign,15,Low,55,Spamhaus,2026-03-31 00:30:55,Investigating
+71.23.27.142,IP Address,Benign,15,Low,55,MISP Feed,2026-03-31 00:23:42,Resolved
+g-wjrn.gov,URL/Domain,Benign,0,Low,62,Spamhaus,2026-03-30 17:46:30,Active
+7f5f012ad4f2092f251ed5a0dd311542d04c50cc5f4864745e8c103ecb6f78cb,File Hash,Spyware,30,Low,72,PhishTank,2026-03-30 13:50:05,Resolved
+f0a73aa22970e47019bc34454ff49092981984ab87443c8c862cbab2afbb4f77,File Hash,Ransomware,30,Low,72,AbuseIPDB,2026-03-30 13:46:46,False Positive
+31.73.193.188,IP Address,Benign,15,Low,55,AlienVault OTX,2026-03-30 13:31:46,Mitigated
+account-tf6nj8.top,URL/Domain,Data Exfiltration,73,High,69,MISP Feed,2026-03-30 13:03:51,Investigating
+185.178.243.25,IP Address,Botnet C2,50,Medium,66,Manual Analyst Report,2026-03-30 12:31:10,Mitigated
+77951965176e8d5aa988e5e2349a98273461ea3022c5e280db5dee741f6c9a36,File Hash,Spyware,30,Low,72,VirusTotal,2026-03-30 08:17:24,Active
+71.228.24.84,IP Address,Benign,15,Low,55,Manual Analyst Report,2026-03-30 05:52:48,Mitigated
+yh8ae.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-03-30 02:20:59,Mitigated
+c3ae5b219e6d7f89997032a45a4748982d21ac79a56aa13f1dab0be0cf56daa7,File Hash,Cryptomining,30,Low,72,AlienVault OTX,2026-03-29 21:31:35,False Positive
+3b4hqeyoou0w.co,URL/Domain,Benign,18,Low,55,AlienVault OTX,2026-03-29 19:24:16,Investigating
+9f52d86cf82009ba7cd24244ecc84269eafbb4457d9dc69e3dfef63f324bab31,File Hash,Malware,30,Low,72,MISP Feed,2026-03-29 14:20:16,Mitigated
+88635785c40809ce6011a448c6f14fcf86fe3ddbe0b8644262f4bcfb54ec1d50,File Hash,Spyware,30,Low,72,VirusTotal,2026-03-29 14:17:09,Resolved
+186.119.219.168,IP Address,Benign,15,Low,55,AbuseIPDB,2026-03-29 01:31:38,Active
+rvu8fijo.io,URL/Domain,Benign,18,Low,55,VirusTotal,2026-03-28 21:12:10,Active
+login-pyfxobugvj.work,URL/Domain,Phishing,88,Critical,76,VirusTotal,2026-03-28 11:54:46,Resolved
+62.201.193.199,IP Address,Benign,15,Low,55,Spamhaus,2026-03-28 11:43:03,Mitigated
+21.3.3.46,IP Address,Benign,15,Low,55,AbuseIPDB,2026-03-28 05:15:47,False Positive
